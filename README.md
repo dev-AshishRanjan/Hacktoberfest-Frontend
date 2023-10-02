@@ -45,16 +45,14 @@ This is a Database for Frontend Projects created using : HTML, CSS, JS
 
 ## To Do
 
-These are the changes you can make.
-Steps to contribute to this project:
+These are the changes you can make.  
+Steps to contribute to this project:  
+1._ADD your `Project files` of **HTML,CSS,JS** in `./projects/` directory_
 
-1. _ADD your `Project files` of **HTML,CSS,JS** in `./projects/` directory_
-
-- You have to add your own files first in `./projects/`. Your project has to be a project of HTML+CSS+JS, where js is not mandatory. Or all 3 files can be merged in *index.html* also.
+- You have to add your own files first in `./projects/`. Your project has to be a project of HTML+CSS+JS, where js is not mandatory. Or all 3 files can be merged in _index.html_ also.
 - You can see this project for reference : `./projects/Example-Project`.
 
-2. _ADD your information in `./contribution/ProjectList.json` file_
-
+2._ADD your information in `./contribution/ProjectList.json` file_
 - Copy-paste this below code and modify it with your own details
 
   ```json
@@ -78,22 +76,22 @@ Steps to contribute to this project:
 
 ### Process of Contribution
 
-1. _Fork_ : Fork this GitHub Repo to your own github account
-2. _Clone_ : Clone the forked repo (the repo present on your account) to your local machine.
+1._Fork_ : Fork this GitHub Repo to your own github account
+2._Clone_ : Clone the forked repo (the repo present on your account) to your local machine.
 
 ```terminal
 git clone https://github.com/dev-AshishRanjan/Hacktoberfest-frontend.git
 ```
 
-3. Create a _new Branch_
+3.Create a _new Branch_
 
 ```markdown
 git checkout -b my-new-branch
 ```
 
-4. _Changes_ : Create a new branch and commit your changes on that branch. Follow the [How to contribute](./CONTRIBUTING.md)
+4._Changes_ : Create a new branch and commit your changes on that branch. Follow the [How to contribute](./CONTRIBUTING.md)
 
-5. _ADD_ and _COMMIT_
+5._ADD_ and _COMMIT_
 
 - Add your changes
 
@@ -107,13 +105,13 @@ git add .
 git commit -m "Relevant message"
 ```
 
-6. _Push_ : After all changes are commited, push your changes to your remote repo.
+6._Push_ : After all changes are commited, push your changes to your remote repo.
 
 ```markdown
 git push origin my-new-branch
 ```
 
-7. _PR_ : After pushing changes, raise a PR from your remote repo to this repo's dev branch
+7._PR_ : After pushing changes, raise a PR from your remote repo to this repo's dev branch
 
 > If you are new to git and github, I will suggest you first go through this :
 >
