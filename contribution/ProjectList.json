@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Example Project",
+    "Author": "dev-AshishRanjan",
+    "tags": [
+      "html",
+      "css",
+      "js",
+      "example"
+    ],
+    "Github": "https://github.com/dev-AshishRanjan",
+    "FilePath": "../Projects/Example-Project/index.html",
+    "Description": "Small And Breif description is needed which explains your project"
+  },
+  {
+    "Name": "Example Project2",
+    "Author": "dev-AshishRanjan",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/dev-AshishRanjan",
+    "FilePath": "../Projects/Example-Project2/index.html",
+    "Description": "Small And Breif description is needed which explains your project. Small And Breif description is needed which explains your project"
+  }
+]

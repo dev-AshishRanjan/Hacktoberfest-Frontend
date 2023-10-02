@@ -1,0 +1,12 @@
+{
+  "name": "hacktoberfest-frontend",
+  "version": "1.0.0",
+  "description": "![Hacktoberfest2023](https://socialify.git.ci/dev-AshishRanjan/Hacktoberfest2023/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Auto)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
