@@ -1,66 +1,80 @@
-![Hacktoberfest2023](https://socialify.git.ci/dev-AshishRanjan/Hacktoberfest2023/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Auto)
+![Hacktoberfest-frontend](https://socialify.git.ci/dev-AshishRanjan/Hacktoberfest-frontend/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Auto)
 
 <div align="center">
  <p>
    
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=dev-AshishRanjan%2FHacktoberfest2023%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub Repo stars](https://img.shields.io/github/stars/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub contributors](https://img.shields.io/github/contributors/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub last commit](https://img.shields.io/github/last-commit/dev-AshishRanjan/Hacktoberfest2023)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=dev-AshishRanjan%2FHacktoberfest-frontend%20&countColor=%23263759&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/dev-AshishRanjan/Hacktoberfest-frontend)
+![GitHub Repo stars](https://img.shields.io/github/stars/dev-AshishRanjan/Hacktoberfest-frontend)
+![GitHub contributors](https://img.shields.io/github/contributors/dev-AshishRanjan/Hacktoberfest-frontend)
+![GitHub last commit](https://img.shields.io/github/last-commit/dev-AshishRanjan/Hacktoberfest-frontend)
   
-![GitHub repo size](https://img.shields.io/github/repo-size/dev-AshishRanjan/Hacktoberfest2023)
+![GitHub repo size](https://img.shields.io/github/repo-size/dev-AshishRanjan/Hacktoberfest-frontend)
 
-![Github](https://img.shields.io/github/license/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub issues](https://img.shields.io/github/issues/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dev-AshishRanjan/Hacktoberfest2023)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dev-AshishRanjan/Hacktoberfest2023)
+![Github](https://img.shields.io/github/license/dev-AshishRanjan/Hacktoberfest-frontend)
+![GitHub issues](https://img.shields.io/github/issues/dev-AshishRanjan/Hacktoberfest-frontend)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dev-AshishRanjan/Hacktoberfest-frontend)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dev-AshishRanjan/Hacktoberfest-frontend)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dev-AshishRanjan/Hacktoberfest-frontend)
 
  </p>
 </div>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23${textVal}&lines=+👋🏻+Welcome+to+Hacktoberfest2023+👋🏻;👨🏻‍💻+Lets+Build+Together+👩🏻‍💻;💡+Get+Your+First+Pull+Request+💡;🙏🏻+Thanks+for+Contributing+🙏🏻"
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23${textVal}&lines=+👋🏻+Welcome+to+Hacktoberfest+frontend+👋🏻;👨🏻‍💻+Lets+Build+Together+👩🏻‍💻;💡+Get+Your+First+Pull+Request+💡;🙏🏻+Thanks+for+Contributing+🙏🏻"
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
 
 ---
 
-# **_Hacktoberfest 2023_**
+# **_Frontend Database_**
 
 Hacktoberfest has came with it's 10 season to promote Open-Source Contribution.
+This is a Database for Frontend Projects created using : HTML, CSS, JS
 **After Learning how to contribute using this repo, go to our real world project [Idea-Arca](https://github.com/dev-AshishRanjan/Idea-Arca). It's also up for Hacktoberfest.**
 
-## What to Contribute (To Dos)
+## Tech Stack
+
+<p>
+    <img src="https://img.shields.io/badge/html5-7c3aed?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+    <img src="https://img.shields.io/badge/css3-7c3aed?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/javascript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+</p>
+
+## To Do
 
 These are the changes you can make.
 Steps to contribute to this project:
 
-1. _ADD your `Hello World` code in **any language** in `Database/` directory_
+1. _ADD your `Project files` of **HTML,CSS,JS** in `./projects/` directory_
 
-- Basic format to add code. You have to add your own file first in `./Database/` and write the hello world code in that file only. The file can be named anything.here first 3 lines are commented out. The rest is `Hello_World` code
+- You have to add your own files first in `./projects/`. Your project has to be a project of HTML+CSS+JS, where js is not mandatory. Or all 3 files can be merged in *index.html* also.
+- You can see this project for reference : `./projects/Example-Project`.
 
-```py
-  # LANG: Python
-  # AUTHOR: Kumar Ashish Ranjan
-  # GITHUB: https://github.com/dev-AshishRanjan
-  print("Hello World!")
-```
-
-2. _ADD your information in `CONTRIBUTORS.md` file_
+2. _ADD your information in `./contribution/ProjectList.json` file_
 
 - Copy-paste this below code and modify it with your own details
 
-```markdown
-### Name: Kumar Ashish Ranjan
+  ```json
+  {
+    "Name": "Example Project",
+    "Author": "dev-AshishRanjan",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/dev-AshishRanjan",
+    "FilePath": "../Projects/Example-Project/index.html",
+    "Description": "Small And Breif description is needed which explains your project."
+  }
+  ```
 
-- Place: Bihar, India
-- Academic: CSE Undergraduate at college_name.
-- GitHub: [dev-AshishRanjan](https://github.com/dev-AshishRanjan)
-```
+- Note :
+  - Name : Project's Name
+  - Author : Your Name
+  - Tags : can be any tag
+  - Github : Your Github Profile link
+  - **_FilePath : The relative path for your project's `index.html` file_**
+  - **_Description : A breif description of your project_**
 
 ### Process of Contribution
 
@@ -68,7 +82,7 @@ Steps to contribute to this project:
 2. _Clone_ : Clone the forked repo (the repo present on your account) to your local machine.
 
 ```terminal
-git clone https://github.com/dev-AshishRanjan/Hacktoberfest2023.git
+git clone https://github.com/dev-AshishRanjan/Hacktoberfest-frontend.git
 ```
 
 3. Create a _new Branch_
@@ -80,17 +94,18 @@ git checkout -b my-new-branch
 4. _Changes_ : Create a new branch and commit your changes on that branch. Follow the [How to contribute](./CONTRIBUTING.md)
 
 5. _ADD_ and _COMMIT_
-  - Add your changes
 
-  ```markdown
-  git add .
-  ```
+- Add your changes
 
-  - Commit your changes.
+```markdown
+git add .
+```
 
-  ```markdown
-  git commit -m "Relevant message"
-  ```
+- Commit your changes.
+
+```markdown
+git commit -m "Relevant message"
+```
 
 6. _Push_ : After all changes are commited, push your changes to your remote repo.
 
@@ -114,7 +129,7 @@ git push origin my-new-branch
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
 
 ```terminal
-git remote add upstream https://github.com/dev-AshishRanjan/Hacktoberfest2023
+git remote add upstream https://github.com/dev-AshishRanjan/Hacktoberfest-frontend
 ```
 
 You can verify that the new remote has been added by typing
