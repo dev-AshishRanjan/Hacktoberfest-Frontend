@@ -31,9 +31,9 @@
 
 # **_Frontend Database_**
 
-Hacktoberfest has came with it's 10 season to promote Open-Source Contribution.
-This is a Database for Frontend Projects created using : HTML, CSS, JS
-**After Learning how to contribute using this repo, go to our real world project [Idea-Arca](https://github.com/dev-AshishRanjan/Idea-Arca). It's also up for Hacktoberfest.**
+Hacktoberfest has came with it's 10 season to promote Open-Source Contribution.  
+This is a Database for Frontend Projects created using : HTML, CSS, JS  
+**After Learning how to contribute using this repo, go to our real world project [Idea-Arca](https://github.com/dev-AshishRanjan/Idea-Arca). It's also up for Hacktoberfest.**  
 
 ## Tech Stack
 
@@ -47,9 +47,11 @@ This is a Database for Frontend Projects created using : HTML, CSS, JS
 
 These are the changes you can make.  
 Steps to contribute to this project:  
+
 1._ADD your `Project files` of **HTML,CSS,JS** in `./projects/` directory_
 
-- You have to add your own files first in `./projects/`. Your project has to be a project of HTML+CSS+JS, where js is not mandatory. Or all 3 files can be merged in _index.html_ also.
+- You have to add your own files first in `./projects/`  
+Your project has to be a project of HTML+CSS+JS, where js is not mandatory. Or all 3 files can be merged in _index.html_ also.
 - You can see this project for reference : `./projects/Example-Project`.
 
 2._ADD your information in `./contribution/ProjectList.json` file_
