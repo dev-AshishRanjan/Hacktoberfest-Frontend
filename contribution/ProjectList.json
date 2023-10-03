@@ -35,5 +35,18 @@
     "Github": "https://github.com/Sonal144",
     "FilePath": "../Projects/Analog Clock/clock.html",
     "Description": "Analog clock created using HTML+CSS+JS, with all the real world analog clock features i.e hands, motion etc. Very beautiful UI for the clock"
+  },
+   {
+    "Name": "Periodic Table",
+    "Author": "dev-AshishRanjan",
+    "tags": [
+      "html",
+      "css",
+      "js",
+      "tables"
+    ],
+    "Github": "https://github.com/dev-AshishRanjan",
+    "FilePath": "../Projects/Periodic Table of Elements/index.html",
+    "Description": "Animated Periodic Table of Elements, must visit for science students"
   }
 ]
