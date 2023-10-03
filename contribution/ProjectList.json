@@ -38,5 +38,13 @@
     "Github": "https://github.com/akanshbende",
     "FilePath": "../Projects/Clock_Ui/index.html",
     "Description": "Neuromorphism Analog Clock with Dark and Lignt mode"
+  },
+  {
+    "Name": "Ping Pong",
+    "Author": "Avibtb",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Avibtb",
+    "FilePath": "../Projects/Ping Pong/index.html",
+    "Description": "A web based competitive Ping Pong game with real time score update."
   }
 ]
