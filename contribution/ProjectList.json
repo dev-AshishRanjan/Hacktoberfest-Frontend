@@ -2,12 +2,7 @@
   {
     "Name": "Example Project",
     "Author": "dev-AshishRanjan",
-    "tags": [
-      "html",
-      "css",
-      "js",
-      "example"
-    ],
+    "tags": ["html", "css", "js", "example"],
     "Github": "https://github.com/dev-AshishRanjan",
     "FilePath": "../Projects/Example-Project/index.html",
     "Description": "Small And Breif description is needed which explains your project"
@@ -15,11 +10,7 @@
   {
     "Name": "Example Project2",
     "Author": "dev-AshishRanjan",
-    "tags": [
-      "html",
-      "css",
-      "js"
-    ],
+    "tags": ["html", "css", "js"],
     "Github": "https://github.com/dev-AshishRanjan",
     "FilePath": "../Projects/Example-Project2/index.html",
     "Description": "Small And Breif description is needed which explains your project. Small And Breif description is needed which explains your project"
@@ -27,26 +18,25 @@
   {
     "Name": "Analog Clock",
     "Author": "Sonal",
-    "tags": [
-      "html",
-      "css",
-      "js"
-    ],
+    "tags": ["html", "css", "js"],
     "Github": "https://github.com/Sonal144",
     "FilePath": "../Projects/Analog Clock/clock.html",
     "Description": "Analog clock created using HTML+CSS+JS, with all the real world analog clock features i.e hands, motion etc. Very beautiful UI for the clock"
   },
-   {
+  {
     "Name": "Periodic Table",
     "Author": "dev-AshishRanjan",
-    "tags": [
-      "html",
-      "css",
-      "js",
-      "tables"
-    ],
+    "tags": ["html", "css", "js", "tables"],
     "Github": "https://github.com/dev-AshishRanjan",
     "FilePath": "../Projects/Periodic Table of Elements/index.html",
     "Description": "Animated Periodic Table of Elements, must visit for science students"
+  },
+  {
+    "Name": "Clock_Ui ",
+    "Author": "akanshbende",
+    "tags": ["html", "css", "js", "scss"],
+    "Github": "https://github.com/akanshbende",
+    "FilePath": "../Projects/Clock_Ui/index.html",
+    "Description": "Neuromorphism Analog Clock with Dark and Lignt mode"
   }
 ]
