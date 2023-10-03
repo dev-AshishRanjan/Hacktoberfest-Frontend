@@ -23,5 +23,17 @@
     "Github": "https://github.com/dev-AshishRanjan",
     "FilePath": "../Projects/Example-Project2/index.html",
     "Description": "Small And Breif description is needed which explains your project. Small And Breif description is needed which explains your project"
+  },
+  {
+    "Name": "Analog Clock",
+    "Author": "Sonal",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/Sonal144",
+    "FilePath": "../Projects/Analog Clock/clock.html",
+    "Description": "Analog clock created using HTML+CSS+JS, with all the real world analog clock features i.e hands, motion etc. Very beautiful UI for the clock"
   }
 ]
