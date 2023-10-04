@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Who's that Pokémon?</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap" rel="stylesheet">
+    <script src = "script.js"></script>
+</head>
+<body>
+    
+    <center>
+        <font color = "#eef531" size = 7 id = "title">
+            <h1>Who's that Pokémon?</h1>
+        </font>
+        
+        <div id="score">
+            <font color = "#cccac4" size = 7>
+                Score : 0 / 10
+            </font>
+        </div>
+
+        <div id="imageContainer" class = "container">
+            <img src="pokeball.png" alt="Image Not Found" id = "gameImage" onerror="err()" class = "stretchy">
+        </div>
+        <br>
+        <input type="text" id = "answer" disabled>
+        <button onclick = "check()" disabled id = "check">Check</button>
+        <br>
+        <button onclick ="random()" id = "start">Start</button>
+        <button id = "getAns" onclick = "revelio()" disabled >Reveal Answer</button>
+        <font size = 5 color = "#cccac4">
+            <p id="text"></p>
+        </font> 
+        
+    </center>
+</body>
+</html>

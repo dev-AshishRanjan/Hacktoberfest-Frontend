@@ -110,5 +110,14 @@
     "Github": "https://github.com/yash19sinha",
     "FilePath": "../projects/coffeeshop/index.html",
     "Description": "This is Static Coffee-Shop website with some very good functionality"
+  },
+  
+  {
+    "Name": "Who's that Pokemon",
+    "Author": "freshBakedPie314(Aditya Rout)",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/freshBakedPie314",
+    "FilePath": "../projects/Who's that Pokemon/index.html",
+    "Description": "Guess the Pokemon from it's silhouettee"
   }
 ]
