@@ -56,11 +56,19 @@
     "Description": "A web based dice game."
   },
   {
-  "Name": "GPA Calculator",
-  "Author": "Shubham Kamboj",
-  "tags": ["html", "css", "js"],
-  "Github": "https://github.com/Shu4bham",
-  "FilePath": "../Projects/GPA Calculator/index.html",
-  "Description": "GPA Calculator is a web application  that allows users to calculate their Grade Point Average (GPA) based on the grades they received"
-}
+    "Name": "GPA Calculator",
+    "Author": "Shubham Kamboj",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Shu4bham",
+    "FilePath": "../Projects/GPA Calculator/index.html",
+    "Description": "GPA Calculator is a web application  that allows users to calculate their Grade Point Average (GPA) based on the grades they received"
+  },
+  {
+    "Name": "Memory Card Game",
+    "Author": "EniolaAdemola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/Memory-card-Game/index.html",
+    "Description": "In this game, 16 cards are placed randomly on the screen, and each pair of cards has the same image. The objective of the game is to find all the matching pairs by clicking on the cards."
+  }
 ]
