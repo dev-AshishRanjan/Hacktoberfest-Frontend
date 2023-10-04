@@ -78,5 +78,13 @@
     "Github": "https://github.com/EniolaAdemola",
     "FilePath": "../projects/Hangman-Game/index.html",
     "Description": "Hangman is a word-guessing game where players try to guess all the letters of a randomly generated word within a given number of tries."
+  },
+  {
+    "Name": "Quiz App With Timer",
+    "Author": "EniolaAdemola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/Quiz-App/index.html",
+    "Description": "Quiz Application with Timer using HTML CSS & JavaScript."
   }
 ]
