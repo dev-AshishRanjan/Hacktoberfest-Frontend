@@ -46,5 +46,13 @@
     "Github": "https://github.com/Avibtb",
     "FilePath": "../Projects/Ping Pong/index.html",
     "Description": "A web based competitive Ping Pong game with real time score update."
+  },
+  {
+    "Name": "Dice Game",
+    "Author": "EniolaAdemola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/Dice-Game/index.html",
+    "Description": "A web based dice game."
   }
 ]
