@@ -1,0 +1,61 @@
+body{
+    background: #1a2533;
+    font-family: 'Rubik';
+}
+
+.centered{
+    align-self: center;
+    margin-top: 50px;
+}
+
+font{
+  text-shadow: 2px 0 #fff -2px 0 #fff 0 2px #fff 0 -2px #fff
+               1px 1px #fff -1px -1px #fff 1px -1px #fff -1px 1px #fff;
+}
+
+button {
+    background-color: #c0bfbf; 
+    color: #343834; 
+    border: 2px solid #343834; 
+    padding: 8px 20px; 
+    text-align: center;
+    display: inline-block; 
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition-duration: .4s;
+  }
+  
+  button:hover {
+    background-color: #393a39;
+    color: #dfdfdf;
+  }
+
+  button:disabled {
+  opacity: 0.5; 
+}
+
+  input[type=text] {
+    padding: 8px 10px;
+    border-radius: 8px;
+    border: 2px solid #343834;
+    font-size: 16px;
+    background-color: #f7f7f7;
+    color: #343834;
+    transition-duration: 0.4s;
+  }
+  
+  input[type=text]:focus {
+    outline: none;
+    border-color: #343834;
+    box-shadow: 0 0 8px #343834;
+  }
+  input[type = text]:disabled{
+    opacity : .2;
+  }
+
+  #gameImage{
+    transition:ease-in;
+    filter:brightness(1);
+  }
+  
