@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GPA calculator</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  <link rel="icon" href="./imgs/GPA-calc.png" />
+    <script
+      src="https://kit.fontawesome.com/4a0b67b127.js"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="head">
+      <header class="header">
+        <div class="logo">
+          <a href="#">GPA<span>calc</span></a>
+        </div>
+      </header>
+    </div>
+
+    <div class="main">
+      <div class="groupList">
+        <button class="btn addSemester">
+          <i class="fas fa-plus-square"></i>Add semester
+        </button>
+
+        <div class="totals">
+          <div class="semi-donut" style="--percentage: 44"></div>
+          <div class="totals__value">0.00</div>
+          <div class="totals__label">Cumulative GPA</div>
+        </div>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
