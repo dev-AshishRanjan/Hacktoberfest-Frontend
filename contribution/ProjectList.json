@@ -88,6 +88,14 @@
     "Description": "Quiz Application with Timer using HTML CSS & JavaScript."
   },
   {
+  "Name": "Navigation Menu Responsive",
+  "Author": "Kshitiz Vardhan",
+  "tags": ["html", "css"],
+  "Github": "https://github.com/kshitizvardhan",
+  "FilePath": "../Projects/Navigation Menu Responsive/index.html",
+  "Description": "Responsive Navigation Menu for your company's landing page."
+  },
+  {
     "Name": "Stock purchase",
     "Author": "om sali",
     "tags": ["html", "css", "js"],
