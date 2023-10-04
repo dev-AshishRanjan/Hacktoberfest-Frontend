@@ -86,5 +86,13 @@
     "Github": "https://github.com/EniolaAdemola",
     "FilePath": "../projects/Quiz-App/index.html",
     "Description": "Quiz Application with Timer using HTML CSS & JavaScript."
+  },
+  {
+    "Name": "Stock purchase",
+    "Author": "om sali",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/omsali",
+    "FilePath": "../projects/Stock-purchase/index.html",
+    "Description": "Given the parameters like Buying prize, number of stocks and selling value it will give you the total loss and loss percentage"
   }
 ]
