@@ -119,5 +119,13 @@
     "Github": "https://github.com/freshBakedPie314",
     "FilePath": "../projects/Who's that Pokemon/index.html",
     "Description": "Guess the Pokemon from it's silhouettee"
+  },
+  {
+    "Name": "Web Audio Drum Machine",
+    "Author": "protob",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/protob",
+    "FilePath": "../projects/Web-Audio-Drum-Machine/index.html",
+    "Description": "Drum machine / sequencer based on Web Audio API"
   }
 ]

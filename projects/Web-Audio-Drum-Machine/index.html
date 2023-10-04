@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Audio API Drum Machine</title>
+
+
+</head>
+
+<body>
+    <section class="drum-machine-wrapper mt-8 px-8">
+        <h1 class="text-xl text-center mb-8">Web Audio API Drum Machine</h1>
+        <div class="drum-machine m-auto max-w-lg">
+            <div id="stepsContainer">
+                <div id="steps">
+
+
+                    <div id="kick" class="flex mb-4 w-full">
+
+
+                        <div class="labels mr-2 border border-gray-700">Kick</div>
+                        <div class="steps w-full" id="kick-steps"></div>
+
+                    </div>
+
+                    <div id="snare" class="flex mb-4">
+
+                        <div class="labels mr-2 border border-gray-700">Snare</div>
+                        <div class="steps w-full" id="snare-steps"></div>
+
+
+                    </div>
+                    <div id="clap" class="flex mb-4">
+
+                        <div class="labels mr-2 border border-gray-700">Clap</div>
+                        <div class="steps w-full" id="clap-steps"></div>
+
+
+                    </div>
+                    <div id="ch" class="flex mb-4">
+
+                        <div class="labels mr-2 border border-gray-700">CH</div>
+                        <div class="steps w-full" id="ch-steps"></div>
+
+
+                    </div>
+                    <div id="oh" class="flex mb-4">
+
+                        <div class="labels mr-2 border border-gray-700">OH</div>
+                        <div class="steps w-full" id="oh-steps"></div>
+
+
+                    </div>
+
+                    <div id="hitom" class="flex mb-4">
+
+                        <div class="labels mr-2 border border-gray-700">Tom</div>
+                        <div class="steps w-full" id="hitom-steps"></div>
+
+                    </div>
+
+
+                </div>
+                <div id="indicator" class="flex mb-4">
+
+                    <div class="labels mr-2 border border-gray-700"></div>
+                    <div class="steps w-full" id="indicator-steps"></div>
+
+
+                </div>
+            </div>
+            <div class="controls">
+                <div class="pb-4">
+                    <button id="togglePlayback"
+                        class="bg-teal-700 hover:bg-teal-600 text-white font-bold py-2 px-4 rounded mr-2 w-24">
+                        Play
+                    </button>
+                    <div class="inline-block">
+                        <input id="bpm" type="number" min="60" max="240" value="120"
+                            class="mr-4 p-2 border border-gray-700 text-black w-16" />
+                        <span>BPM</span>
+                    </div>
+                </div>
+                <div class="pb-2 flex justify-between">
+                    <button data-sound="kick" class="bg-green-500 hover:bg-green-700 text-black py-2 px-2 rounded">
+                        <span>Kick (c)</span>
+                    </button>
+                    <button data-sound="snare" class="bg-green-500 hover:bg-green-700 text-black py-2 px-2 rounded">
+                        <span>Snare (x)</span>
+                    </button>
+                    <button data-sound="clap" class="bg-green-500 hover:bg-green-700 text-black py-2 px-2 rounded">
+                        <span>Clap (b)</span>
+                    </button>
+                    <button data-sound="ch" class="bg-green-500 hover:bg-green-700 text-black py-2 px-2 rounded">
+                        <span>Ch (z)</span>
+                    </button>
+                    <button data-sound="oh" class="bg-green-500 hover:bg-green-700 text-black py-2 px-2 rounded">
+                        <span>Oh (v)</span>
+                    </button>
+                    <button data-sound="hitom" class="bg-green-500 hover:bg-green-700 text-black py-2 px-2 rounded">
+                        <span>Tom (n)</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="sequencer.js" type="module"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</body>
+
+</html>
