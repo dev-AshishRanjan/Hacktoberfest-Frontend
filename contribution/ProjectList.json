@@ -54,5 +54,13 @@
     "Github": "https://github.com/EniolaAdemola",
     "FilePath": "../projects/Dice-Game/index.html",
     "Description": "A web based dice game."
-  }
+  },
+  {
+  "Name": "GPA Calculator",
+  "Author": "Shubham Kamboj",
+  "tags": ["html", "css", "js"],
+  "Github": "https://github.com/Shu4bham",
+  "FilePath": "../Projects/GPA Calculator/index.html",
+  "Description": "GPA Calculator is a web application  that allows users to calculate their Grade Point Average (GPA) based on the grades they received"
+}
 ]
