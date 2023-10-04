@@ -94,5 +94,13 @@
     "Github": "https://github.com/omsali",
     "FilePath": "../projects/Stock-purchase/index.html",
     "Description": "Given the parameters like Buying prize, number of stocks and selling value it will give you the total loss and loss percentage"
+  },
+  {
+    "Name": "Coffee-Bean",
+    "Author": "yash19sinha",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/yash19sinha",
+    "FilePath": "../projects/coffeeshop/index.html",
+    "Description": "This is Static Coffee-Shop website with some very good functionality"
   }
 ]
