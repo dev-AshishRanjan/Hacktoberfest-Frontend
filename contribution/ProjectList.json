@@ -70,5 +70,13 @@
     "Github": "https://github.com/EniolaAdemola",
     "FilePath": "../projects/Memory-card-Game/index.html",
     "Description": "In this game, 16 cards are placed randomly on the screen, and each pair of cards has the same image. The objective of the game is to find all the matching pairs by clicking on the cards."
+  },
+  {
+    "Name": "Quiz App With Timer",
+    "Author": "EniolaAdemola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/Quiz-App/index.html",
+    "Description": "Quiz Application with Timer using HTML CSS & JavaScript."
   }
 ]
