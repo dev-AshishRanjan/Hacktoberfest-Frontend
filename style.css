@@ -116,7 +116,7 @@ main {
   text-align: center;
   font-weight: 800;
   font-size: 5rem;
-  letter-spacing: -5px;
+  letter-spacing: -10px;
 }
 
 .card {
@@ -128,7 +128,7 @@ main {
   gap: 1rem;
   background: transparent;
   border-radius: 0.3rem;
-  padding: 0.5rem;
+  padding: 01rem;
   max-height: 18rem;
   border: 1px dashed var(--text-head);
   backdrop-filter: blur(0.3rem);
@@ -256,12 +256,22 @@ main {
 
 /* medias */
 @media (max-width: 800px) {
-  body h1 {
+  .hero .hero-data {
+    transform: translateX(0rem);
+  }
+  .hero h1 {
     font-size: 2.5rem;
   }
-
-  body h2 {
+  .hero h2 {
     margin-top: -1rem;
     font-size: 1rem;
+  }
+  .hero-logo{
+    display: none;
+  }
+  .projects h1 {
+    transform: translateX(-1.5rem);
+    font-size: 2rem;
+    letter-spacing: -2px;
   }
 }
