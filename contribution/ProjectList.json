@@ -129,6 +129,14 @@
     "Description": "Drum machine / sequencer based on Web Audio API"
   },
   {
+    "Name": "My Portfolio",
+    "Author": "ro78ldt",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/ro78ldt",
+    "FilePath": "../projects/My Portfolio/index.html",
+    "Description": "A simple portfolio website"
+  },
+  }
     "Name": "QR Code Generator",
     "Author": "Ej",
     "tags": ["html", "css", "js"],
