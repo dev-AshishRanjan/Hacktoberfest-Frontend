@@ -151,5 +151,13 @@
     "Github": "https://github.com/Ejay02",
     "FilePath": "../Projects/QR Code Generator/index.html",
     "Description": "QR code generator that creates QR codes for storing information like URLs, text, or contact details, which can be scanned by devices for quick access."
+  },
+  {
+    "Name": "Simon Game",
+    "Author": "Shivansh Singh",
+    "tags": ["html", "css", "js","Dom"],
+    "Github": "https://github.com/shivanshsin0203",
+    "FilePath": "../Projects/Simon_Game/index.html",
+    "Description": "A memory game where players must repeat an ever-increasing sequence of lights and sounds"
   }
 ]
