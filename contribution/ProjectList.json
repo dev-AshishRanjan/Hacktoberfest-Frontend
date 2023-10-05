@@ -2,55 +2,85 @@
   {
     "Name": "Example Project",
     "Author": "dev-AshishRanjan",
-    "tags": ["html", "css", "js", "example"],
+    "tags": [
+      "html",
+      "css",
+      "js",
+      "example"
+    ],
     "Github": "https://github.com/dev-AshishRanjan",
-    "FilePath": "../Projects/Example-Project/index.html",
+    "FilePath": "../projects/Example-Project/index.html",
     "Description": "Small And Breif description is needed which explains your project"
-  },
-  {
-    "Name": "Example Project2",
-    "Author": "dev-AshishRanjan",
-    "tags": ["html", "css", "js"],
-    "Github": "https://github.com/dev-AshishRanjan",
-    "FilePath": "../Projects/Example-Project2/index.html",
-    "Description": "Small And Breif description is needed which explains your project. Small And Breif description is needed which explains your project"
   },
   {
     "Name": "Analog Clock",
     "Author": "Sonal",
-    "tags": ["html", "css", "js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/Sonal144",
-    "FilePath": "../Projects/Analog Clock/clock.html",
+    "FilePath": "../projects/Analog Clock/clock.html",
     "Description": "Analog clock created using HTML+CSS+JS, with all the real world analog clock features i.e hands, motion etc. Very beautiful UI for the clock"
   },
   {
     "Name": "Periodic Table",
     "Author": "dev-AshishRanjan",
-    "tags": ["html", "css", "js", "tables"],
+    "tags": [
+      "html",
+      "css",
+      "js",
+      "tables"
+    ],
     "Github": "https://github.com/dev-AshishRanjan",
-    "FilePath": "../Projects/Periodic Table of Elements/index.html",
+    "FilePath": "../projects/Periodic Table of Elements/index.html",
     "Description": "Animated Periodic Table of Elements, must visit for science students"
+  },
+  {
+    "Name": "Movie-Card-Sample",
+    "Author": "v0nser",
+    "tags": [
+      "html",
+      "css"
+    ],
+    "Github": "https://github.com/v0nser",
+    "FilePath": "../projects/Movie-Card-Sample/inde.html",
+    "Description": "Movie Card Sample with overlapping css transition effect to display details."
   },
   {
     "Name": "Clock_Ui ",
     "Author": "akanshbende",
-    "tags": ["html", "css", "js", "scss"],
+    "tags": [
+      "html",
+      "css",
+      "js",
+      "scss"
+    ],
     "Github": "https://github.com/akanshbende",
-    "FilePath": "../Projects/Clock_Ui/index.html",
+    "FilePath": "../projects/Clock_Ui/index.html",
     "Description": "Neuromorphism Analog Clock with Dark and Lignt mode"
   },
   {
     "Name": "Ping Pong",
     "Author": "Avibtb",
-    "tags": ["html", "css", "js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/Avibtb",
-    "FilePath": "../Projects/Ping Pong/index.html",
+    "FilePath": "../projects/Ping Pong/index.html",
     "Description": "A web based competitive Ping Pong game with real time score update."
   },
   {
     "Name": "Dice Game",
     "Author": "EniolaAdemola",
-    "tags": ["html", "css", "js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/EniolaAdemola",
     "FilePath": "../projects/Dice-Game/index.html",
     "Description": "A web based dice game."
@@ -58,15 +88,23 @@
   {
     "Name": "GPA Calculator",
     "Author": "Shubham Kamboj",
-    "tags": ["html", "css", "js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/Shu4bham",
-    "FilePath": "../Projects/GPA Calculator/index.html",
+    "FilePath": "../projects/GPA Calculator/index.html",
     "Description": "GPA Calculator is a web application  that allows users to calculate their Grade Point Average (GPA) based on the grades they received"
   },
   {
     "Name": "Memory Card Game",
     "Author": "EniolaAdemola",
-    "tags": ["html", "css", "js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/EniolaAdemola",
     "FilePath": "../projects/Memory-card-Game/index.html",
     "Description": "In this game, 16 cards are placed randomly on the screen, and each pair of cards has the same image. The objective of the game is to find all the matching pairs by clicking on the cards."
@@ -74,7 +112,11 @@
   {
     "Name": "HangMan Game",
     "Author": "EniolaAdemola",
-    "tags": ["html", "css", "js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/EniolaAdemola",
     "FilePath": "../projects/Hangman-Game/index.html",
     "Description": "Hangman is a word-guessing game where players try to guess all the letters of a randomly generated word within a given number of tries."
@@ -82,23 +124,34 @@
   {
     "Name": "Quiz App With Timer",
     "Author": "EniolaAdemola",
-    "tags": ["html", "css", "js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/EniolaAdemola",
     "FilePath": "../projects/Quiz-App/index.html",
     "Description": "Quiz Application with Timer using HTML CSS & JavaScript."
   },
   {
-  "Name": "Navigation Menu Responsive",
-  "Author": "Kshitiz Vardhan",
-  "tags": ["html", "css"],
-  "Github": "https://github.com/kshitizvardhan",
-  "FilePath": "../Projects/Navigation Menu Responsive/index.html",
-  "Description": "Responsive Navigation Menu for your company's landing page."
+    "Name": "Navigation Menu Responsive",
+    "Author": "Kshitiz Vardhan",
+    "tags": [
+      "html",
+      "css"
+    ],
+    "Github": "https://github.com/kshitizvardhan",
+    "FilePath": "../projects/Navigation Menu Responsive/index.html",
+    "Description": "Responsive Navigation Menu for your company's landing page."
   },
   {
     "Name": "Stock purchase",
     "Author": "om sali",
-    "tags": ["html", "css", "js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/omsali",
     "FilePath": "../projects/Stock-purchase/index.html",
     "Description": "Given the parameters like Buying prize, number of stocks and selling value it will give you the total loss and loss percentage"
@@ -106,7 +159,11 @@
   {
     "Name": "Coffee-Bean",
     "Author": "yash19sinha",
-    "tags": ["html", "css", "js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/yash19sinha",
     "FilePath": "../projects/coffeeshop/index.html",
     "Description": "This is Static Coffee-Shop website with some very good functionality"
@@ -119,4 +176,87 @@
     "FilePath": "../projects/Calculator/index.html",
     "Description": "A basic calculator which does all the basic function including addition, subtraction, multiplication and division much more..."
   },
+  {
+    "Name": "Who's that Pokemon",
+    "Author": "freshBakedPie314(Aditya Rout)",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/freshBakedPie314",
+    "FilePath": "../projects/Who's that Pokemon/index.html",
+    "Description": "Guess the Pokemon from it's silhouettee"
+  },
+  {
+    "Name": "Web Audio Drum Machine",
+    "Author": "protob",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/protob",
+    "FilePath": "../projects/Web-Audio-Drum-Machine/index.html",
+    "Description": "Drum machine / sequencer based on Web Audio API"
+  },
+  {
+    "Name": "My Portfolio",
+    "Author": "ro78ldt",
+    "tags": [
+      "html",
+      "css"
+    ],
+    "Github": "https://github.com/ro78ldt",
+    "FilePath": "../projects/My-Portfolio/index.html",
+    "Description": "A simple portfolio website"
+  },
+  {
+    "Name": "Gym Landing Page",
+    "Author": "ro78ldt",
+    "tags": [
+      "html",
+      "css"
+    ],
+    "Github": "https://github.com/ro78ldt",
+    "FilePath": "../projects/Gym-Website/index.html",
+    "Description": "Landing page of a Gym"
+  },
+  {
+    "Name": "QR Code Generator",
+    "Author": "Ej",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/Ejay02",
+    "FilePath": "../projects/QR Code Generator/index.html",
+    "Description": "QR code generator that creates QR codes for storing information like URLs, text, or contact details, which can be scanned by devices for quick access."
+  },
+  {
+    "Name": "Simon Game",
+    "Author": "Shivansh Singh",
+    "tags": [
+      "html",
+      "css",
+      "js",
+      "Dom"
+    ],
+    "Github": "https://github.com/shivanshsin0203",
+    "FilePath": "../projects/Simon_Game/index.html",
+    "Description": "A memory game where players must repeat an ever-increasing sequence of lights and sounds"
+  },
+  {
+    "Name": "Mondrian-Project",
+    "Author": "Chinmayee",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/Chinmayee7697",
+    "FilePath": "../projects/Mondrian-Project/index.html",
+    "Description": "It consists of Mondrian painting with the help of HTML and CSS. "
+  }
 ]

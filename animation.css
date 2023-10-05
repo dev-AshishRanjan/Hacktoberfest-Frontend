@@ -1,0 +1,114 @@
+
+.lines {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  margin: auto;
+  width: 90vw;
+  z-index: 2;
+}
+
+.line {
+  position: absolute;
+  width: 1px;
+  height: 100%;
+  top: 0;
+  left: 50%;
+  background: var(--primary-2);
+  overflow: hidden;
+}
+
+.line::after {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 15vh;
+  width: 100%;
+  top: -50%;
+  left: 0;
+  background: linear-gradient(to bottom, var(--primary-3) 0%, var(--primary-4) 75%, var(--primary-4) 100%);
+  animation: drop 7s 0s infinite;
+  animation-fill-mode: forwards;
+  animation-timing-function: cubic-bezier(0.4, 0.26, 0, 0.97);
+}
+
+.line:nth-child(1) {
+  margin-left: -50%;
+}
+
+.line:nth-child(1)::after {
+  animation-delay: 5s;
+}
+
+.line:nth-child(2) {
+  margin-left: -37.5%;
+}
+
+.line:nth-child(2)::after {
+  animation-delay: 4s;
+}
+
+.line:nth-child(3) {
+  margin-left: -25%;
+}
+
+.line:nth-child(3)::after {
+  animation-delay: 3s;
+}
+.line:nth-child(4) {
+  margin-left: -12.5%;
+}
+
+.line:nth-child(4)::after {
+  animation-delay: 2s;
+}
+
+.line:nth-child(5) {
+  margin-left: 0;
+}
+
+.line:nth-child(5)::after {
+  animation-delay: 0s;
+}
+
+.line:nth-child(6) {
+  margin-left: 12.5%;
+}
+
+.line:nth-child(6)::after {
+  animation-delay: 2.5s;
+}
+
+.line:nth-child(7) {
+  margin-left: 25%;
+}
+
+.line:nth-child(7)::after {
+  animation-delay: 3.5s;
+}
+
+.line:nth-child(8) {
+  margin-left: 37.5%;
+}
+
+.line:nth-child(8)::after {
+  animation-delay: 4.5s;
+}
+.line:nth-child(9) {
+  margin-left: 50%;
+}
+
+.line:nth-child(9)::after {
+  animation-delay: 5.5s;
+}
+
+@keyframes drop {
+  0% {
+    top: -50%;
+  }
+  100% {
+    top: 110%;
+  }
+}

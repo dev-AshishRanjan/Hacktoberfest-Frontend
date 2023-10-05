@@ -1,6 +1,6 @@
 // app.js file
 
-// code for fetch
+// code for fetch for projects
 let ProjectList;
 const projectBody = document.querySelector(".projects");
 
@@ -29,9 +29,9 @@ fetch("./contribution/ProjectList.json")
         tag.classList.add("tag");
         tags.appendChild(tag);
       });
-      const author=document.createElement("a");
-      author.innerHTML="Author: "+project.Author;
-      author.setAttribute("href",project.Github);
+      const author = document.createElement("a");
+      author.innerHTML = "Author: " + project.Author;
+      author.setAttribute("href", project.Github);
       h3.innerText = project.Name;
       p.innerHTML = project.Description;
       card.appendChild(h3);
@@ -42,3 +42,30 @@ fetch("./contribution/ProjectList.json")
     });
   })
   .catch((error) => console.error("Error loading JSON file:", error));
+
+// theme selection
+const html = document.documentElement;
+const PIBtheme = localStorage.getItem("FDtheme");
+if (PIBtheme === null) {
+  localStorage.setItem("FDtheme", "dark");
+  PIBtheme = "dark";
+}
+handleChange(PIBtheme);
+console.log({ PIBtheme });
+
+function handleChange(val) {
+  const sun = document.querySelector("#sun");
+  const moon = document.querySelector("#moon");
+  if (val === "light") {
+    html.classList.add("light");
+    html.classList.remove("dark");
+    sun.style.display = "none";
+    moon.style.display = "block";
+  } else {
+    html.classList.add("dark");
+    html.classList.remove("light");
+    sun.style.display = "block";
+    moon.style.display = "none";
+  }
+  localStorage.setItem("FDtheme", val);
+}
