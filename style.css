@@ -11,6 +11,15 @@
 }
 
 /* themes */
+:root {
+  --primary-1: #03001c;
+  --primary-2: #301e67;
+  --primary-3: #5b8fb9;
+  /* --primary-3: #9c83ea; */
+  --primary-4: #b6eada;
+  --gradient: #1c2f4b;
+  --text-head: #d2b863;
+}
 .dark {
   --primary-1: #03001c;
   --primary-2: #301e67;
