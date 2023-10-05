@@ -88,12 +88,12 @@
     "Description": "Quiz Application with Timer using HTML CSS & JavaScript."
   },
   {
-  "Name": "Navigation Menu Responsive",
-  "Author": "Kshitiz Vardhan",
-  "tags": ["html", "css"],
-  "Github": "https://github.com/kshitizvardhan",
-  "FilePath": "../Projects/Navigation Menu Responsive/index.html",
-  "Description": "Responsive Navigation Menu for your company's landing page."
+    "Name": "Navigation Menu Responsive",
+    "Author": "Kshitiz Vardhan",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/kshitizvardhan",
+    "FilePath": "../Projects/Navigation Menu Responsive/index.html",
+    "Description": "Responsive Navigation Menu for your company's landing page."
   },
   {
     "Name": "Stock purchase",
@@ -111,7 +111,7 @@
     "FilePath": "../projects/coffeeshop/index.html",
     "Description": "This is Static Coffee-Shop website with some very good functionality"
   },
-  
+
   {
     "Name": "Who's that Pokemon",
     "Author": "freshBakedPie314(Aditya Rout)",
@@ -135,5 +135,13 @@
     "Github": "https://github.com/ro78ldt",
     "FilePath": "../projects/My Portfolio/index.html",
     "Description": "A simple portfolio website"
+  },
+  }
+    "Name": "QR Code Generator",
+    "Author": "Ej",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Ejay02",
+    "FilePath": "../Projects/QR Code Generator/index.html",
+    "Description": "QR code generator that creates QR codes for storing information like URLs, text, or contact details, which can be scanned by devices for quick access."
   }
 ]
