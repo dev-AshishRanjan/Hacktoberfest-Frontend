@@ -32,6 +32,14 @@
     "Description": "Animated Periodic Table of Elements, must visit for science students"
   },
   {
+    "Name": "Movie-Card-Sample",
+    "Author": "v0nser",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/v0nser",
+    "FilePath": "../Projects/Movie-Card-Sample/inde.html",
+    "Description": "Movie Card Sample with overlapping css transition effect to display details."
+  },
+  {
     "Name": "Clock_Ui ",
     "Author": "akanshbende",
     "tags": ["html", "css", "js", "scss"],
