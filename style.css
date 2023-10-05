@@ -10,7 +10,8 @@
   scroll-behavior: smooth;
 }
 
-:root {
+/* themes */
+.dark {
   --primary-1: #03001c;
   --primary-2: #301e67;
   --primary-3: #5b8fb9;
@@ -18,6 +19,14 @@
   --primary-4: #b6eada;
   --gradient: #1c2f4b;
   --text-head: #d2b863;
+}
+.light {
+  --primary-1: #f2b8f8;
+  --primary-2: #e8aac5;
+  --primary-3: #335168;
+  --primary-4: #5b8fb9;
+  --gradient: #96e3ff;
+  --text-head: #000;
 }
 
 a {
@@ -185,7 +194,7 @@ main {
 }
 
 .theme-icon {
-  color: var(--primary-4);
+  color: var(--primary-3);
   font-size: 1.5rem;
 }
 
