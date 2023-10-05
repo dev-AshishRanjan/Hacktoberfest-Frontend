@@ -63,7 +63,7 @@ Your project has to be a project of HTML+CSS+JS, where js is not mandatory. Or a
     "Author": "dev-AshishRanjan",
     "tags": ["html", "css", "js"],
     "Github": "https://github.com/dev-AshishRanjan",
-    "FilePath": "../Projects/Example-Project/index.html",
+    "FilePath": "../projects/Example-Project/index.html",
     "Description": "Small And Breif description is needed which explains your project."
   }
   ```

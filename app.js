@@ -1,6 +1,6 @@
 // app.js file
 
-// code for fetch
+// code for fetch for projects
 let ProjectList;
 const projectBody = document.querySelector(".projects");
 
