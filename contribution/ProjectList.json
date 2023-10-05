@@ -270,6 +270,18 @@
     "Github": "https://github.com/Sujal-2820",
     "FilePath": "../projects/Weather-Application/index.html",
     "Description": "A web application that dynamically fetches the Weather Conditions of a particular City/Region searched. "
+  },
+  {
+    "Name": "Maze game",
+    "Author": "Hardik Panwar",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/HardikPanwar",
+    "FilePath": "../projects/Maze-Game/index.html",
+    "Description": "A simple Fun Maze game built using HTML, CSS and Javascript"
   }
 
 ]
