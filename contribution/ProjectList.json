@@ -282,6 +282,18 @@
     "Github": "https://github.com/s-bhalode",
     "FilePath": "../projects/login-form/index.html",
     "Description": "A web page for login using attractive UI"
+  },
+  {
+    "Name": "Maze game",
+    "Author": "Hardik Panwar",
+    "tags": [
+      "html",
+      "css",
+      "js",
+      "game"
+    ],
+    "Github": "https://github.com/HardikPanwar",
+    "FilePath": "../projects/Maze-Game/index.html",
+    "Description": "A simple Fun Maze game built using HTML, CSS and Javascript"
   }
-
 ]
