@@ -133,7 +133,15 @@
     "Author": "ro78ldt",
     "tags": ["html", "css"],
     "Github": "https://github.com/ro78ldt",
-    "FilePath": "../projects/My Portfolio/index.html",
+    "FilePath": "../projects/My-Portfolio/index.html",
     "Description": "A simple portfolio website"
+  },
+  {
+    "Name": "Gym Landing Page",
+    "Author": "ro78ldt",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/ro78ldt",
+    "FilePath": "../projects/Gym-Website/index.html",
+    "Description": "Landing page of a Gym"
   }
 ]
