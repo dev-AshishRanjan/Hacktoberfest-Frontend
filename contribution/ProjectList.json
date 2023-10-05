@@ -169,6 +169,14 @@
     "Description": "This is Static Coffee-Shop website with some very good functionality"
   },
   {
+    "Name": "Made a basic Calculator",
+    "Author": "Kshitiz Vardhan",
+    "tags": ["html","css","js"],
+    "Github": "https://github.com/kshitizvardhan",
+    "FilePath": "../projects/Calculator/index.html",
+    "Description": "A basic calculator which does all the basic function including addition, subtraction, multiplication and division much more..."
+  },
+  {
     "Name": "Who's that Pokemon",
     "Author": "freshBakedPie314(Aditya Rout)",
     "tags": [
