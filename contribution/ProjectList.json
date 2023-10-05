@@ -258,5 +258,18 @@
     "Github": "https://github.com/Chinmayee7697",
     "FilePath": "../projects/Mondrian-Project/index.html",
     "Description": "It consists of Mondrian painting with the help of HTML and CSS. "
+  },
+  {
+    "Name": "Weather Application",
+    "Author": "Sujal Soni",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/Sujal-2820",
+    "FilePath": "../projects/Weather-Application/index.html",
+    "Description": "A web application that dynamically fetches the Weather Conditions of a particular City/Region searched. "
   }
+
 ]
