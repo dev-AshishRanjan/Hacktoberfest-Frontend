@@ -270,6 +270,18 @@
     "Github": "https://github.com/Sujal-2820",
     "FilePath": "../projects/Weather-Application/index.html",
     "Description": "A web application that dynamically fetches the Weather Conditions of a particular City/Region searched. "
+  },
+  {
+    "Name": "login form",
+    "Author": "Simran Bhalode",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/s-bhalode",
+    "FilePath": "../projects/login-form/index.html",
+    "Description": "A web page for login using attractive UI"
   }
 
 ]
