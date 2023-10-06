@@ -36,6 +36,19 @@
     "FilePath": "../projects/Analog Clock/clock.html",
     "Description": "Analog clock created using HTML+CSS+JS, with all the real world analog clock features i.e hands, motion etc. Very beautiful UI for the clock"
   },
+   {
+    "Name": "chatbot",
+    "Author": "Akshita",
+    "tags": [
+      "html",
+      "css",
+      "js",
+      "tables"
+    ],
+    "Github": "https://github.com/AkshitaS10",
+    "FilePath": "../projects/chat-bot/index.html",
+    "Description": "A simple to use ai bot with user friendly ui"
+  },
   {
     "Name": "Periodic Table",
     "Author": "dev-AshishRanjan",
