@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #87CEFA;
+}
+
+.brazil-flag-container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.brazil-flag {
+    width: 200px;
+    height: 133px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    background: url('brazil-flag.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.header {
+    background-color: rgba(135, 206, 250, 0.7);
+    border-radius: 0 0 10px 10px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: auto;
+}
+
+.text-white {
+    color: white;
+}
+
+.btn-success {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 24px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-success:hover {
+    background-color: #45a049;
+}

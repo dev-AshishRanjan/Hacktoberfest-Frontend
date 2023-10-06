@@ -18,7 +18,7 @@ Steps to contribute to this project:
     "Author": "dev-AshishRanjan",
     "tags": ["html", "css", "js"],
     "Github": "https://github.com/dev-AshishRanjan",
-    "FilePath": "../Projects/Example-Project/index.html",
+    "FilePath": "../projects/Example-Project/index.html",
     "Description": "Small And Breif description is needed which explains your project."
   }
   ```

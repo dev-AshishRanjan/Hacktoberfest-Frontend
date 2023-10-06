@@ -1,0 +1,82 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family:monospace, sans-serif;
+    background: url("images/L1.jpg") no-repeat 50% 50% ;
+    backdrop-filter: blur(1.5px);
+}
+
+#Card{
+    background: #1e1e1fd1;
+    color: #EEE;
+    padding: 2rem;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 420px;
+    margin: 1rem;
+    
+}
+
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0.5em;
+}
+
+#new-city{
+    border: 0.5px solid;
+    outline: none;
+    padding: 0.8em;
+    font-size: large;
+    border-radius: 18px;
+    background: #7c7c7c2b;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#submitButton{
+    border: none;
+    outline: none;
+    margin: 0.5em;
+    font-size: medium;
+    padding: 0.8em;
+    border-radius: 18px;
+}
+
+#submitButton:hover{
+    opacity: 0.85;
+}
+
+.temp{
+    font-size: 52px;
+    margin-bottom: 0.4rempx;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+.Description{
+    text-transform: capitalize;
+    margin-left: 8px;
+}
+
+.weather.loading{
+    visibility: hidden;
+    max-height: 2px;
+    position: relative;
+}
+
+.weather.loading::after{
+    visibility: visible;
+    content: "Loading...";
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 20px;
+}
