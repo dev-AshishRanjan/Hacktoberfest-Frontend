@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pull Request Management</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Pull Request Management</h1>
+    </header>
+    <div class="container">
+        <h2>About Pull Requests</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget quam ac odio sollicitudin consectetur. 
+            Nullam et libero nec nunc fringilla cursus. Vivamus ut purus nec augue tincidunt auctor.
+        </p>
+        
+        <h2>Create a Pull Request</h2>
+        <p>
+            To create a new pull request, follow these steps:
+            <ol>
+                <li>Fork the repository.</li>
+                <li>Create a new branch for your changes.</li>
+                <li>Make and commit your changes to the new branch.</li>
+                <li>Create a pull request from your branch to the original repository.</li>
+            </ol>
+        </p>
+        
+        <h2>Pull Request Details</h2>
+        <form id="pullRequestForm">
+            <label for="prTitle">Pull Request Title:</label>
+            <input type="text" id="prTitle" name="prTitle" required><br>
+            
+            <label for="prAuthor">Author:</label>
+            <input type="text" id="prAuthor" name="prAuthor" required><br>
+            
+            <label for="prDescription">Description:</label><br>
+            <textarea id="prDescription" name="prDescription" rows="4" cols="50" required></textarea><br>
+            
+            <input type="button" value="Submit" onclick="displayPullRequest()">
+        </form>
+        
+        <div id="pullRequestDetails">
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
