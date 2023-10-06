@@ -42,7 +42,7 @@
     "tags": [
       "html",
       "Css",
-      "js",
+      "js"
     ],
     "Github": "https://github.com/Mefisto04",
     "FilePath": "../projects/City Finder/index.html",
@@ -364,7 +364,11 @@
   {
     "Name": "Music Player App",
     "Author": "Sumedh Bhat",
-    "tags": ["html", "css", "js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/Sumedhbhat",
     "FilePath": "../projects/MusicPlayerApp/index.html",
     "Description": "A simple UI for a music player application"
@@ -409,7 +413,11 @@
   {
     "Name": "PDF Viewer",
     "Author": "Nikhi Rajput",
-    "tags": ["html", "css", "js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/nikhil56",
     "FilePath": "../projects/PDF Viewer/index.html",
     "Description": "It is a simple webpage that allows you to view PDFs on the browser"
