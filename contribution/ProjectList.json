@@ -350,6 +350,14 @@
     "Description": "A web page for login using attractive UI"
   },
   {
+    "Name": "Music Player App",
+    "Author": "Sumedh Bhat",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Sumedhbhat",
+    "FilePath": "../projects/MusicPlayerApp/index.html",
+    "Description": "A simple UI for a music player application"
+  },
+  {
     "Name": "Maze game",
     "Author": "Hardik Panwar",
     "tags": [
