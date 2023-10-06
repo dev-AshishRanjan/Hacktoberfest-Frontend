@@ -365,7 +365,7 @@ main {
   }
 
   .navbar {
-    padding: 1rem 1rem;
+    padding: 1rem 0.5rem;
     justify-content: center;
     align-items: center;
   }

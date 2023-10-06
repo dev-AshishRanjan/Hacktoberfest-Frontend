@@ -12,19 +12,19 @@
     "FilePath": "../projects/Example-Project/index.html",
     "Description": "Small And Breif description is needed which explains your project"
   },
-   {
+  {
     "Name": "Pull Request Management",
     "Author": "Mefisto",
     "tags": [
       "html",
       "Css",
-      "js",
+      "js"
     ],
     "Github": "https://github.com/Mefisto04",
     "FilePath": "../projects/Pull Request Management/index.html",
     "Description": "It is a Pull Request Management in which You will add details related of PR."
   },
-   {
+  {
     "Name": "Drawing Website",
     "Author": "Jatin",
     "tags": [
@@ -48,7 +48,7 @@
     "FilePath": "../projects/Analog Clock/clock.html",
     "Description": "Analog clock created using HTML+CSS+JS, with all the real world analog clock features i.e hands, motion etc. Very beautiful UI for the clock"
   },
-   {
+  {
     "Name": "chatbot",
     "Author": "Akshita",
     "tags": [
@@ -62,13 +62,17 @@
     "Description": "A simple to use ai bot with user friendly ui"
   },
   {
-  "Name": "Digital Clock",
-  "Author": "Vishal35679",
-  "tags": ["html", "css", "js"],
-  "Github": "https://github.com/Vishal35679",
-  "FilePath": "../projects/Digital_Clock/index.html",
-  "Description": "A simple Digital clock with use of html, css and js."
-},
+    "Name": "Digital Clock",
+    "Author": "Vishal35679",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/Vishal35679",
+    "FilePath": "../projects/Digital_Clock/index.html",
+    "Description": "A simple Digital clock with use of html, css and js."
+  },
   {
     "Name": "Periodic Table",
     "Author": "dev-AshishRanjan",
@@ -216,7 +220,11 @@
   {
     "Name": "Made a basic Calculator",
     "Author": "Kshitiz Vardhan",
-    "tags": ["html","css","js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/kshitizvardhan",
     "FilePath": "../projects/Calculator/index.html",
     "Description": "A basic calculator which does all the basic function including addition, subtraction, multiplication and division much more..."
@@ -295,7 +303,12 @@
   {
     "Name": "Piano",
     "Author": "Vishal Sharma",
-    "tags": ["html", "CSS", "js", "Dom"],
+    "tags": [
+      "html",
+      "CSS",
+      "js",
+      "Dom"
+    ],
     "Github": "https://github.com/Vishal2002",
     "FilePath": "../Projects/Piano/index.html",
     "Description": "User can play the Piano Board and make some awesome songs on it."
@@ -352,7 +365,11 @@
   {
     "Name": "Temperature Converter",
     "Author": "Susan Shrestha",
-    "tags": ["html", "css", "js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/susanhsrestha",
     "FilePath": "../projects/TemperatureConverter/index.html",
     "Description": "A simple temperature converter that converts Celsius to Fahrenheit and vice versa."
@@ -360,7 +377,11 @@
   {
     "Name": "Hello from Brazil",
     "Author": "Thalmonn Sales",
-    "tags": ["html", "css", "js"],
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
     "Github": "https://github.com/Thalmonn",
     "FilePath": "../projects/Hello from Brazil/index.html",
     "Description": "A small contribution with a Hello, world! from Brazil to all the participants of the event."
