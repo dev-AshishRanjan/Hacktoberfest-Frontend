@@ -124,6 +124,15 @@ main {
   letter-spacing: -10px;
 }
 
+.contact-form h3 {
+  width: 100%;
+  text-align: center;
+  font-weight: 800;
+  font-size: 5rem;
+  letter-spacing: -10px;
+  margin-bottom: 1.5rem;
+}
+
 .card {
   width: 20rem;
   display: flex;
@@ -242,7 +251,7 @@ main {
   height: 100vh;
   width: 100vw;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   background: radial-gradient(circle at 30% 50%, var(--primary-1) 10%, transparent, transparent 100vh);
 }
@@ -252,11 +261,66 @@ main {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  transform: translateX(-10rem);
+  /* transform: translateX(-10rem); */
 }
 
 .hero .hero-logo iconify-icon {
   font-size: 10rem;
+}
+
+.hero .contact-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.hero .contact-form form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.hero .contact-form form :where(input, textarea, .btn) {
+  width: 20rem;
+  background: transparent;
+  border-radius: 0.3rem;
+  padding: 1rem;
+  border: 1px dashed var(--text-head);
+  backdrop-filter: blur(0.3rem);
+  outline: none;
+  font-weight: 100;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  color: var(--primary-4);
+  resize: none;
+
+  &::placeholder {
+    color: var(--primary-4);
+    opacity: 0.6;
+  }
+
+  &:focus {
+    border: 1px solid var(--text-head);
+  }
+}
+
+.btn {
+  padding: 0.3rem 0.5rem;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  background: var(--primary-3);
+  color: var(--text-head);
+  border-radius: 0.3rem;
+  transition: all 0.1s ease-in-out;
+}
+.btn:hover {
+  opacity: 0.8;
+  background: var(--text-head) !important;
+  color: var(--primary-1) !important;
 }
 
 /* medias */
@@ -282,5 +346,12 @@ main {
     transform: translateX(-1.5rem);
     font-size: 2rem;
     letter-spacing: -2px;
+  }
+
+  .contact-form h3 {
+    font-size: 2rem;
+    letter-spacing: -2px;
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
   }
 }

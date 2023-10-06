@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FrontEnd Database</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./animation.css" />
+    <meta
+      name="keywords"
+      content="projects, idea , database ,Frontend, archive "
+    />
+    <meta name="theme-color" content="#5f5eaa" />
+    <link rel="icon" href="./icon.png" />
+    <link rel="shortcut icon" href="./icon.png" />
+    <link rel="apple-touch-icon" href="./icon.png" />
+  </head>
+  <body>
+    <div class="body">
+      <!-- lines -->
+      <div class="lines">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
+      <main>
+        <!-- navbar -->
+        <div class="navbar">
+          <div class="logo">Frontend Database</div>
+          <div class="links">
+            <a href="/">HOME</a>
+            <a href="contributors.html">CONTRIBUTORS</a>
+            <a href="contact.html">CONTACT</a>
+          </div>
+          <div class="theme">
+            <iconify-icon
+              class="theme-icon"
+              icon="system-uicons:sun"
+              onclick="handleChange('light')"
+              id="sun"
+            ></iconify-icon>
+            <iconify-icon
+              class="theme-icon"
+              icon="system-uicons:moon"
+              onclick="handleChange('dark')"
+              id="moon"
+            ></iconify-icon>
+          </div>
+        </div>
+
+        <!-- hero section -->
+        <div class="hero">
+          <div class="contact-form">
+            <h3>Contact</h3>
+            <form
+              action="https://formsubmit.co/kumarashishranjan4971@gmail.com"
+              method="POST"
+            >
+              <input type="text" placeholder="Name" name="name" />
+              <input type="email" placeholder="Email" name="email" />
+              <input type="text" placeholder="Subject" name="subject" />
+              <textarea
+                name="msg"
+                id="msg"
+                cols="30"
+                rows="10"
+                placeholder="Message"
+              ></textarea>
+              <button type="submit" class="btn">submit</button>
+            </form>
+          </div>
+          <div class="hero-logo">
+            <a
+              href="https://github.com/dev-AshishRanjan/Hacktoberfest-frontend"
+              target="_blank"
+              ><iconify-icon icon="mingcute:github-line"></iconify-icon
+            ></a>
+          </div>
+        </div>
+      </main>
+    </div>
+  </body>
+  <script src="./app.js"></script>
+  <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+</html>
