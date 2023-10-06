@@ -112,6 +112,16 @@ main {
     radial-gradient(circle at right, var(--primary-1) 2%, transparent 15%, transparent) 0/100vw 750vh;
 }
 
+.smoke {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: radial-gradient(circle at left top, var(--primary-1) 20%, transparent 40%, transparent),
+    radial-gradient(circle at top, var(--primary-1) 20%, transparent 50%, transparent);
+}
+
 .projects h1,
 .contributors h1 {
   width: 100%;
@@ -227,7 +237,7 @@ main {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background: radial-gradient(circle at 30% 50%, var(--primary-1) 10%, transparent, transparent 100vh);
+  background: radial-gradient(circle at 30% 50%, var(--primary-1) 10%, transparent, transparent 100vh), radial-gradient(circle at bottom, var(--primary-1) 10%, transparent, transparent), radial-gradient(circle at left bottom, var(--primary-1) 10%, transparent, transparent), radial-gradient(circle at left, var(--primary-1) 10%, transparent, transparent 100vh);
 }
 
 .hero .hero-data {
