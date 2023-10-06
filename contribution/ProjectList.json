@@ -62,6 +62,14 @@
     "Description": "A simple to use ai bot with user friendly ui"
   },
   {
+  "Name": "Digital Clock",
+  "Author": "Vishal35679",
+  "tags": ["html", "css", "js"],
+  "Github": "https://github.com/Vishal35679",
+  "FilePath": "../projects/Digital_Clock/index.html",
+  "Description": "A simple Digital clock with use of html, css and js."
+},
+  {
     "Name": "Periodic Table",
     "Author": "dev-AshishRanjan",
     "tags": [
