@@ -167,5 +167,13 @@
     "Github": "https://github.com/shivanshsin0203",
     "FilePath": "../Projects/Simon_Game/index.html",
     "Description": "A memory game where players must repeat an ever-increasing sequence of lights and sounds"
+  },
+   {
+    "Name": "Piano",
+    "Author": "Vishal Sharma",
+    "tags": ["html", "CSS", "js", "Dom"],
+    "Github": "https://github.com/Vishal2002",
+    "FilePath": "../Projects/Piano/index.html",
+    "Description": "User can play the Piano Board and make some awesome songs on it."
   }
 ]
