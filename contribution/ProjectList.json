@@ -13,6 +13,18 @@
     "Description": "Small And Breif description is needed which explains your project"
   },
    {
+    "Name": "Pull Request Management",
+    "Author": "Mefisto",
+    "tags": [
+      "html",
+      "Css",
+      "js",
+    ],
+    "Github": "https://github.com/Mefisto04",
+    "FilePath": "../projects/Pull Request Management/index.html",
+    "Description": "It is a Pull Request Management in which You will add details related of PR."
+  },
+   {
     "Name": "Drawing Website",
     "Author": "Jatin",
     "tags": [
