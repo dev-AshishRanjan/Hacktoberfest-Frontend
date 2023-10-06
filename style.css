@@ -36,32 +36,8 @@
   --primary-2: #e8aac5;
   --primary-3: #335168;
   --primary-4: #5b8fb9;
-  --gradient: #96e3ff;
+  --gradient: #bbedff;
   --text-head: #000;
-}
-
-/* fixed modes for mobiles */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --primary-1: #03001c;
-    --primary-2: #301e67;
-    --primary-3: #5b8fb9;
-    /* --primary-3: #9c83ea; */
-    --primary-4: #b6eada;
-    --gradient: #1c2f4b;
-    --text-head: #d2b863;
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    --primary-1: #f2b8f8;
-    --primary-2: #e8aac5;
-    --primary-3: #335168;
-    --primary-4: #5b8fb9;
-    --gradient: #96e3ff;
-    --text-head: #000;
-  }
 }
 
 a {
@@ -324,6 +300,30 @@ main {
 
 /* medias */
 @media (max-width: 800px) {
+  /* fixed modes for mobiles */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --primary-1: #03001c;
+      --primary-2: #301e67;
+      --primary-3: #5b8fb9;
+      /* --primary-3: #9c83ea; */
+      --primary-4: #b6eada;
+      --gradient: #1c2f4b;
+      --text-head: #d2b863;
+    }
+  }
+
+  @media (prefers-color-scheme: light) {
+    :root {
+      --primary-1: #f2b8f8;
+      --primary-2: #e8aac5;
+      --primary-3: #335168;
+      --primary-4: #5b8fb9;
+      --gradient: #96e3ff;
+      --text-head: #000;
+    }
+  }
+
   .hero .hero-data {
     transform: translateX(0rem);
   }
@@ -341,7 +341,8 @@ main {
     display: none;
   }
 
-  .projects h1, .contributors h1 {
+  .projects h1,
+  .contributors h1 {
     font-size: 2rem;
     letter-spacing: -2px;
   }
@@ -352,14 +353,14 @@ main {
     margin-top: 3rem;
     margin-bottom: 1.5rem;
   }
-  .navbar{
+
+  .navbar {
     padding: 1rem 1rem;
     justify-content: center;
     align-items: center;
   }
-  .navbar .links{
-  }
-  .navbar :where(.logo,.theme){
+
+  .navbar :where(.logo, .theme) {
     display: none;
   }
 }
