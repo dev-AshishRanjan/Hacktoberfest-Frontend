@@ -20,6 +20,7 @@
   --gradient: #1c2f4b;
   --text-head: #d2b863;
 }
+
 .dark {
   --primary-1: #03001c;
   --primary-2: #301e67;
@@ -29,6 +30,7 @@
   --gradient: #1c2f4b;
   --text-head: #d2b863;
 }
+
 .light {
   --primary-1: #f2b8f8;
   --primary-2: #e8aac5;
@@ -95,7 +97,8 @@ main {
   font-family: "Roboto Mono";
 }
 
-.projects,.contributors {
+.projects,
+.contributors {
   width: 100%;
   padding: 2rem;
   display: flex;
@@ -106,10 +109,11 @@ main {
   position: relative;
   padding-top: 15rem;
   background: radial-gradient(circle at left, var(--primary-1) 20%, transparent 45%, transparent) 0/100vw 250vh,
-  radial-gradient(circle at right, var(--primary-1) 2%, transparent 15%, transparent) 0/100vw 750vh;
+    radial-gradient(circle at right, var(--primary-1) 2%, transparent 15%, transparent) 0/100vw 750vh;
 }
 
-.projects h1 ,.contributors h1{
+.projects h1,
+.contributors h1 {
   width: 100%;
   position: absolute;
   top: 1rem;
@@ -260,57 +264,23 @@ main {
   .hero .hero-data {
     transform: translateX(0rem);
   }
+
   .hero h1 {
     font-size: 2.5rem;
   }
+
   .hero h2 {
     margin-top: -1rem;
     font-size: 1rem;
   }
-  .hero-logo{
+
+  .hero-logo {
     display: none;
   }
+
   .projects h1 {
     transform: translateX(-1.5rem);
     font-size: 2rem;
     letter-spacing: -2px;
   }
 }
-
-/* Adjustments for small screens */
-@media only screen and (max-width: 600px) {
-  .projects {
-    padding: 1rem;
-    padding-top: 10rem;
-  }
-  .card {
-    width: 100%; 
-    max-width: 100%; 
-    margin-bottom: 1rem;
-  }
-}
-
-/* Adjustments for medium screens (tablets) */
-@media only screen and (min-width: 601px) and (max-width: 1024px) {
-  .projects {
-    padding: 2rem;
-    padding-top: 10rem;
-  }
-  .card {
-    width: calc(50% - 1rem); /* Two cards per row with spacing */
-    margin-right: 1rem;
-  }
-}
-
-/* Adjustments for large screens (laptops and desktops) */
-@media only screen and (min-width: 1025px) {
-  .projects {
-    padding: 2rem;
-    padding-top: 15rem;
-  }
-  .card {
-    width: calc(33.33% - 1rem); /* Three cards per row with spacing */
-    margin-right: 1rem;
-  }
-}
-
