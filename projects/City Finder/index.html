@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>City Map Viewer</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>City Map Viewer</h1>
+    </header>
+    <div class="container">
+        <label for="cityInput">Enter City Name:</label>
+        <input type="text" id="cityInput" placeholder="e.g., New York">
+        <button onclick="showCityMap()">Show Map</button>
+        <div id="map"></div>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
