@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(196, 196, 230);
+}
+
+header {
+    margin-top: 20px;
+}
+
+.navbar_portfolio {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.navbar_items a {
+    text-decoration: none;
+    padding: 8px;
+    color: black;
+    font-size: 20px;
+}
+
+.profile-img {
+    float: right;
+    margin: 10% 40px 0 0;
+}
+
+.social-media-icons {
+    margin-right: 40px;
+}
+
+.social-media-icons span {
+    padding: 6px;
+}
+
+.fa-facebook {
+    color: blue;
+}
+
+.fa-instagram {
+    color: rgb(247, 0, 255);
+}
+
+.fa-linkedin {
+    color: rgb(78, 131, 255);
+}
+
+section {
+    padding: 40px;
+    position: absolute;
+    top: 30%;
+}
+
+.navbar_portfolio h2 {
+    padding-left: 40px;
+    color: rgba(56, 117, 161, 0.735);
+    font-size: 24px;
+}
+
+.hire-me {
+    padding: 8px;
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    border-radius: 3px;
+    margin-top: 12px;
+}
+
+.details h1, .details h3 {
+    letter-spacing: 0.2px;
+    padding-bottom: 8px;
+}
+
+.details p {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.details h1 {
+    font-size: 56px;
+}
+
+.details h3 {
+    font-size: 32px;
+    color: rgb(72, 72, 134);
+}
