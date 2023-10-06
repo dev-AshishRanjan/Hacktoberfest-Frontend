@@ -43,6 +43,8 @@ fetch("./contribution/ProjectList.json")
   })
   .catch((error) => console.error("Error loading JSON file:", error));
 
+
+
 // theme selection
 const html = document.documentElement;
 const PIBtheme = localStorage.getItem("FDtheme");
@@ -68,4 +70,38 @@ function handleChange(val) {
     moon.style.display = "none";
   }
   localStorage.setItem("FDtheme", val);
+}
+
+
+
+// code for contributors
+const contributors= document.querySelector(".contributors");
+
+function generateCard(ele) {
+  const card = document.createElement("a");
+  card.classList.add("card");
+  card.setAttribute("href", ele.html_url);
+  card.setAttribute("target", "_blank");
+  card.innerHTML = `
+  <img src=${ele.avatar_url} loading="lazy"/>
+  <h2>${ele.login}</h2>
+  <p>Contributions : ${ele.contributions}</p>
+  `;
+  contributors.appendChild(card);
+}
+
+try {
+  fetch("https://api.github.com/repos/dev-AshishRanjan/Hacktoberfest-frontend/contributors")
+    .then((req) => req.json())
+    .then((res) => {
+      res.map((ele) => {
+        generateCard(ele);
+      });
+      console.log({res});
+    })
+    .catch((e) => {
+      contributors.innerText = "Network Error";
+    });
+} catch (e) {
+  contributors.innerText = "Network Error";
 }

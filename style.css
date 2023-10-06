@@ -95,10 +95,11 @@ main {
   font-family: "Roboto Mono";
 }
 
-.projects {
+.projects,.contributors {
   width: 100%;
   padding: 2rem;
   display: flex;
+  justify-content: center;
   /* height: 500vh; */
   flex-wrap: wrap;
   gap: 1.5rem 1rem;
@@ -108,7 +109,7 @@ main {
   radial-gradient(circle at right, var(--primary-1) 2%, transparent 15%, transparent) 0/100vw 750vh;
 }
 
-.projects h1 {
+.projects h1 ,.contributors h1{
   width: 100%;
   position: absolute;
   top: 1rem;
@@ -128,7 +129,7 @@ main {
   gap: 1rem;
   background: transparent;
   border-radius: 0.3rem;
-  padding: 01rem;
+  padding: 1rem;
   max-height: 18rem;
   border: 1px dashed var(--text-head);
   backdrop-filter: blur(0.3rem);
@@ -141,8 +142,8 @@ main {
 }
 
 .card img {
-  height: 20rem;
-  width: 20rem;
+  height: 10rem;
+  width: 10rem;
   border-radius: 0.3rem;
   object-fit: cover;
 }
