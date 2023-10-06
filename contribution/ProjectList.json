@@ -12,6 +12,18 @@
     "FilePath": "../projects/Example-Project/index.html",
     "Description": "Small And Breif description is needed which explains your project"
   },
+   {
+    "Name": "Drawing Website",
+    "Author": "Jatin",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/oyejateen",
+    "FilePath": "../projects/Drawing-website/drawing.html",
+    "Description": "Drawing website created using HTML+CSS+JS, where you can draw. This is simple and easy to use module."
+  },
   {
     "Name": "Analog Clock",
     "Author": "Sonal",
