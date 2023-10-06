@@ -1,0 +1,21 @@
+1. Updated the variable name `SnakeArr` to `snakeArr` to follow JavaScript naming conventions.
+
+2. Adjusted the `speed` value from `5` to `19` to make the snake move faster.
+
+3. Moved the closing brace `}` of the `gameEngine` function to include the code for moving the snake and displaying the snake and food elements.
+
+4. Adjusted the loop condition in the `gameEngine` function for moving the snake. The condition `i <= 0` has been changed to `i >= 0` to iterate from the end of the `snakeArr` array.
+
+5. Moved the code for updating the score and generating new food inside the `if(snakeArr[0].y === food.y && snakeArr[0].x === food.x)` condition.
+
+6. Corrected the variable name `highscoreval` to `highscoreval` in the code block that updates the high score.
+
+7. Adjusted the variable name `hiscore` to `hiscore` for consistency.
+
+8. Fixed the syntax for assigning classes to the snake and food elements. Changed `snakeElement.classList.add(snake);` to `snakeElement.classList.add('snake');` and `foodElement.classList.add(food);` to `foodElement.classList.add('food');`.
+
+9. Corrected the variable name `hiscoreBox` to `highscoreBox` when updating the high score display.
+
+10. Moved the closing brace `}` of the `main` function to include the code for starting the game and playing move sounds.
+
+Other than these changes, the logic and structure of the code remain the same as in your original code.
