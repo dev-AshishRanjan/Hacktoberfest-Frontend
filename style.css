@@ -276,3 +276,41 @@ main {
     letter-spacing: -2px;
   }
 }
+
+/* Adjustments for small screens */
+@media only screen and (max-width: 600px) {
+  .projects {
+    padding: 1rem;
+    padding-top: 10rem;
+  }
+  .card {
+    width: 100%; 
+    max-width: 100%; 
+    margin-bottom: 1rem;
+  }
+}
+
+/* Adjustments for medium screens (tablets) */
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+  .projects {
+    padding: 2rem;
+    padding-top: 10rem;
+  }
+  .card {
+    width: calc(50% - 1rem); /* Two cards per row with spacing */
+    margin-right: 1rem;
+  }
+}
+
+/* Adjustments for large screens (laptops and desktops) */
+@media only screen and (min-width: 1025px) {
+  .projects {
+    padding: 2rem;
+    padding-top: 15rem;
+  }
+  .card {
+    width: calc(33.33% - 1rem); /* Three cards per row with spacing */
+    margin-right: 1rem;
+  }
+}
+
