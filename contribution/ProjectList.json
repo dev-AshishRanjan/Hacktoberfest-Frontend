@@ -385,5 +385,13 @@
     "Github": "https://github.com/Thalmonn",
     "FilePath": "../projects/Hello from Brazil/index.html",
     "Description": "A small contribution with a Hello, world! from Brazil to all the participants of the event."
+  },
+  {
+    "Name": "PDF Viewer",
+    "Author": "Nikhi Rajput",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/nikhil56",
+    "FilePath": "../projects/PDF Viewer/index.html",
+    "Description": "It is a simple webpage that allows you to view PDFs on the browser"
   }
 ]
