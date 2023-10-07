@@ -290,14 +290,18 @@
   {
     "Name": "Snake Game",
     "Author": "Dhruv Pandey",
-    "tags": [
-      "html",
-      "css",
-      "js"
-    ],
+    "tags": ["html", "css", "js"],
     "Github": "https://github.com/pandeydhruv2001",
     "FilePath": "../projects/Snake_Game/index.html",
     "Description": "Classic Snake Game Build with HTML,CSS and JS"
+  },
+  {
+    "Name": "Animated Navigation",
+    "Author": "Eniola Ademola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/Animated-Navigation/index.html",
+    "Description": "It is a navigation animated website"
   },
   {
     "Name": "Payment Gateway System",
