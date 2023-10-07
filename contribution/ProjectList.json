@@ -16,6 +16,14 @@
     "Description": "It is a Pull Request Management in which You will add details related of PR."
   },
   {
+    "Name": "Neuromorphism Calculator",
+    "Author": "Akansh Bende",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/akanshbende",
+    "FilePath": "../projects/Neuromorphism_Caculator/index.html",
+    "Description": "INeuromorphism Calculator wih dark mode"
+  },
+  {
     "Name": "Drawing Website",
     "Author": "Jatin",
     "tags": ["html", "css", "js"],
@@ -318,5 +326,21 @@
     "Github": "https://github.com/EniolaAdemola",
     "FilePath": "../projects/FAQ-Collapse/index.html",
     "Description": "It is a navigation animated website"
+  },
+  {
+    "Name": "Blurry Loading",
+    "Author": "Eniola Ademola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/Blurry-Loading/index.html",
+    "Description": "It is a Blurry Loading website"
+  },
+  {
+    "Name": "Background Slider",
+    "Author": "Eniola Ademola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/Background-Slider/index.html",
+    "Description": "It is a Background Slider website"
   }
 ]
