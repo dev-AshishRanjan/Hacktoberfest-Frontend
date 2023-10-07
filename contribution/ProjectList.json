@@ -16,6 +16,14 @@
     "Description": "It is a Pull Request Management in which You will add details related of PR."
   },
   {
+    "Name": "Neuromorphism Calculator",
+    "Author": "Akansh Bende",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/akanshbende",
+    "FilePath": "../projects/Neuromorphism_Caculator/index.html",
+    "Description": "INeuromorphism Calculator wih dark mode"
+  },
+  {
     "Name": "Drawing Website",
     "Author": "Jatin",
     "tags": ["html", "css", "js"],
@@ -306,11 +314,7 @@
   {
     "Name": "Payment Gateway System",
     "Author": "Dhruv Pandey",
-    "tags": [
-      "html",
-      "css",
-      "js"
-    ],
+    "tags": ["html", "css", "js"],
     "Github": "https://github.com/pandeydhruv2001",
     "FilePath": "../projects/Payment Gateway System/index.html",
     "Description": "Razorpay Integrated Payment Service with automatic receipts"
@@ -322,5 +326,46 @@
     "Github": "https://github.com/dhruvpal05",
     "FilePath": "../projects/QuizApp/index.html",
     "Description": "Small Quiz App which contains questions related to html, css, javascript"
+  },
+  {
+    "Name": "FAQ Collapse Website",
+    "Author": "Eniola Ademola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/FAQ-Collapse/index.html",
+    "Description": "It is a navigation animated website"
+  },
+  {
+    "Name": "Blurry Loading",
+    "Author": "Eniola Ademola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/Blurry-Loading/index.html",
+    "Description": "It is a Blurry Loading website"
+  },
+  {
+    "Name": "Background Slider",
+    "Author": "Eniola Ademola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/Background-Slider/index.html",
+    "Description": "It is a Background Slider website"
+  }
+  ,
+  {
+    "Name": "Analog Clock",
+    "Author": "Vishal Sharma",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Vishal2002",
+    "FilePath": "../projects/Clock/index.html",
+    "Description": "It is a Analog Clock to see Time"
+  },
+  {
+    "Name": "Custom Video Controller",
+    "Author": "Vishal Sharma",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Vishal2002",
+    "FilePath": "../projects/Custom Video Controller/index.html",
+    "Description": "It is a custom Video Player to Play Video made with HTML,CSS ,JS"
   }
 ]
