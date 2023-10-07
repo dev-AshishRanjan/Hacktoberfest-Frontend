@@ -375,5 +375,13 @@
     "Github": "https://github.com/Vishal2002",
     "FilePath": "../projects/Custom Video Controller/index.html",
     "Description": "It is a custom Video Player to Play Video made with HTML,CSS ,JS"
+  },
+  {
+    "Name": "Simon Game",
+    "Author": "Hardik Panwar",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/HardikPanwar",
+    "FilePath": "../projects/Color_simon_game/index.html",
+    "Description": "It is fun color simon game built using HTML,CSS ,JS"
   }
 ]
