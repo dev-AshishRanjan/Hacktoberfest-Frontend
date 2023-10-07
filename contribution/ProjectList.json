@@ -74,7 +74,7 @@
   {
     "Name": "Clock_Ui ",
     "Author": "akanshbende",
-    "tags": ["html", "css", "js", "scss"],
+    "tags": ["html", "css", "scss"],
     "Github": "https://github.com/akanshbende",
     "FilePath": "../projects/Clock_Ui/index.html",
     "Description": "Neuromorphism Analog Clock with Dark and Lignt mode"
@@ -302,5 +302,17 @@
     "Github": "https://github.com/EniolaAdemola",
     "FilePath": "../projects/Animated-Navigation/index.html",
     "Description": "It is a navigation animated website"
+  },
+  {
+    "Name": "Payment Gateway System",
+    "Author": "Dhruv Pandey",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/pandeydhruv2001",
+    "FilePath": "../projects/Payment Gateway System/index.html",
+    "Description": "Razorpay Integrated Payment Service with automatic receipts"
   }
 ]
