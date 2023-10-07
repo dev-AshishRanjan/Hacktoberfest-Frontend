@@ -278,5 +278,37 @@
     "Github": "https://github.com/nikhil56",
     "FilePath": "../projects/PDF Viewer/index.html",
     "Description": "It is a simple webpage that allows you to view PDFs on the browser"
+  },
+  {
+    "Name": "Animated Countdown",
+    "Author": "Eniola Ademola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/Animated-Countdown/index.html",
+    "Description": "It is a simple countdown animated website"
+  },
+  {
+    "Name": "Snake Game",
+    "Author": "Dhruv Pandey",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/pandeydhruv2001",
+    "FilePath": "../projects/Snake_Game/index.html",
+    "Description": "Classic Snake Game Build with HTML,CSS and JS"
+  },
+  {
+    "Name": "Payment Gateway System",
+    "Author": "Dhruv Pandey",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/pandeydhruv2001",
+    "FilePath": "../projects/Payment Gateway System/index.html",
+    "Description": "Razorpay Integrated Payment Service with automatic receipts"
   }
 ]
