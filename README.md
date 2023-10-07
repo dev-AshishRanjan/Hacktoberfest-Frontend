@@ -1,23 +1,23 @@
-![Hacktoberfest-frontend](https://socialify.git.ci/dev-AshishRanjan/Hacktoberfest-frontend/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Auto)
+![Hacktoberfest-Frontend](https://socialify.git.ci/dev-AshishRanjan/Hacktoberfest-Frontend/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Auto)
 
 <div align="center">
  <p>
    
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=dev-AshishRanjan%2FHacktoberfest-frontend%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/dev-AshishRanjan/Hacktoberfest-frontend)
-![GitHub Repo stars](https://img.shields.io/github/stars/dev-AshishRanjan/Hacktoberfest-frontend)
-![GitHub contributors](https://img.shields.io/github/contributors/dev-AshishRanjan/Hacktoberfest-frontend)
-![GitHub last commit](https://img.shields.io/github/last-commit/dev-AshishRanjan/Hacktoberfest-frontend)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=dev-AshishRanjan%2FHacktoberfest-Frontend%20&countColor=%23263759&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/dev-AshishRanjan/Hacktoberfest-Frontend)
+![GitHub Repo stars](https://img.shields.io/github/stars/dev-AshishRanjan/Hacktoberfest-Frontend)
+![GitHub contributors](https://img.shields.io/github/contributors/dev-AshishRanjan/Hacktoberfest-Frontend)
+![GitHub last commit](https://img.shields.io/github/last-commit/dev-AshishRanjan/Hacktoberfest-Frontend)
   
-![GitHub repo size](https://img.shields.io/github/repo-size/dev-AshishRanjan/Hacktoberfest-frontend)
+![GitHub repo size](https://img.shields.io/github/repo-size/dev-AshishRanjan/Hacktoberfest-Frontend)
 
-![Github](https://img.shields.io/github/license/dev-AshishRanjan/Hacktoberfest-frontend)
-![GitHub issues](https://img.shields.io/github/issues/dev-AshishRanjan/Hacktoberfest-frontend)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dev-AshishRanjan/Hacktoberfest-frontend)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dev-AshishRanjan/Hacktoberfest-frontend)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dev-AshishRanjan/Hacktoberfest-frontend)
+![Github](https://img.shields.io/github/license/dev-AshishRanjan/Hacktoberfest-Frontend)
+![GitHub issues](https://img.shields.io/github/issues/dev-AshishRanjan/Hacktoberfest-Frontend)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dev-AshishRanjan/Hacktoberfest-Frontend)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dev-AshishRanjan/Hacktoberfest-Frontend)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dev-AshishRanjan/Hacktoberfest-Frontend)
 
  </p>
 </div>
@@ -33,7 +33,7 @@
 
 Hacktoberfest has came with it's 10 season to promote Open-Source Contribution.  
 This is a Database for Frontend Projects created using : HTML, CSS, JS  
-**After Learning how to contribute using this repo, go to our real world project [Idea-Arca](https://github.com/dev-AshishRanjan/Idea-Arca). It's also up for Hacktoberfest.**  
+**After Learning how to contribute using this repo, go to our real world project [Idea-Arca](https://github.com/dev-AshishRanjan/Idea-Arca). It's also up for Hacktoberfest.**
 
 ## Tech Stack
 
@@ -46,15 +46,16 @@ This is a Database for Frontend Projects created using : HTML, CSS, JS
 ## To Do
 
 These are the changes you can make.  
-Steps to contribute to this project:  
+Steps to contribute to this project:
 
 1._ADD your `Project files` of **HTML,CSS,JS** in `./projects/` directory_
 
 - You have to add your own files first in `./projects/`  
-Your project has to be a project of HTML+CSS+JS, where js is not mandatory. Or all 3 files can be merged in _index.html_ also.
+  Your project has to be a project of HTML+CSS+JS, where js is not mandatory. Or all 3 files can be merged in _index.html_ also.
 - You can see this project for reference : `./projects/Example-Project`.
 
-2._ADD your information in `./contribution/ProjectList.json` file_
+  2._ADD your information in `./contribution/ProjectList.json` file_
+
 - Copy-paste this below code and modify it with your own details
 
   ```json
@@ -78,11 +79,10 @@ Your project has to be a project of HTML+CSS+JS, where js is not mandatory. Or a
 
 ### Process of Contribution
 
-1._Fork_ : Fork this GitHub Repo to your own github account
-2._Clone_ : Clone the forked repo (the repo present on your account) to your local machine.
+1._Fork_ : Fork this GitHub Repo to your own github account 2._Clone_ : Clone the forked repo (the repo present on your account) to your local machine.
 
 ```terminal
-git clone https://github.com/dev-AshishRanjan/Hacktoberfest-frontend.git
+git clone https://github.com/dev-AshishRanjan/Hacktoberfest-Frontend.git
 ```
 
 3.Create a _new Branch_
@@ -129,7 +129,7 @@ git push origin my-new-branch
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
 
 ```terminal
-git remote add upstream https://github.com/dev-AshishRanjan/Hacktoberfest-frontend
+git remote add upstream https://github.com/dev-AshishRanjan/Hacktoberfest-Frontend
 ```
 
 You can verify that the new remote has been added by typing
