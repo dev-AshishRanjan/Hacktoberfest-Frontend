@@ -5,7 +5,7 @@
 * [ ] Documentation change?
 
 ### Checklist:
-* [ ] I have read [CONTRIBUTING.md](https://github.com/dev-AshishRanjan/Hacktoberfest-frontend/blob/dev/CONTRIBUTING.md).
+* [ ] I have read [CONTRIBUTING.md](https://github.com/dev-AshishRanjan/Hacktoberfest-Frontend/blob/dev/CONTRIBUTING.md).
 * [ ] This pull request is all my own work -- I have not plagiarized.
 * [ ] I know that pull requests will not be merged if they fail the automated tests.
 * [ ] This PR only changes one Project folder.  To ease review, please open separate PRs for separate algorithms.
