@@ -320,6 +320,14 @@
     "Description": "Razorpay Integrated Payment Service with automatic receipts"
   },
   {
+    "Name": "QuizApp",
+    "Author": "Dhruv Pal",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/dhruvpal05",
+    "FilePath": "../projects/QuizApp/index.html",
+    "Description": "Small Quiz App which contains questions related to html, css, javascript"
+  },
+  {
     "Name": "FAQ Collapse Website",
     "Author": "Eniola Ademola",
     "tags": ["html", "css", "js"],
@@ -360,7 +368,4 @@
     "FilePath": "../projects/Custom Video Controller/index.html",
     "Description": "It is a custom Video Player to Play Video made with HTML,CSS ,JS"
   }
-  
-  
-  
 ]
