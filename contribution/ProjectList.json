@@ -312,11 +312,11 @@
     "Description": "Razorpay Integrated Payment Service with automatic receipts"
   },
   {
-    "Name": "Animated Navigation",
+    "Name": "FAQ Collapse Website",
     "Author": "Eniola Ademola",
     "tags": ["html", "css", "js"],
     "Github": "https://github.com/EniolaAdemola",
-    "FilePath": "../projects/Animated-Navigation/index.html",
+    "FilePath": "../projects/FAQ-Collapse/index.html",
     "Description": "It is a navigation animated website"
   }
 ]
