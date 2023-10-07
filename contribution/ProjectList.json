@@ -112,6 +112,14 @@
     "Description": "GPA Calculator is a web application  that allows users to calculate their Grade Point Average (GPA) based on the grades they received"
   },
   {
+    "Name": "Blog Post",
+    "Author": "Mefisto",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Mefisto04",
+    "FilePath": "../projects/Blog Post/index.html",
+    "Description": "It is a blog post webpage in which you can create a blog."
+  },
+  {
     "Name": "Memory Card Game",
     "Author": "EniolaAdemola",
     "tags": ["html", "css", "js"],
