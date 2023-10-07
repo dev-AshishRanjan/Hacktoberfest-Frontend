@@ -320,6 +320,14 @@
     "Description": "Razorpay Integrated Payment Service with automatic receipts"
   },
   {
+    "Name": "FAQ Collapse Website",
+    "Author": "Eniola Ademola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/FAQ-Collapse/index.html",
+    "Description": "It is a navigation animated website"
+  },
+  {
     "Name": "Blurry Loading",
     "Author": "Eniola Ademola",
     "tags": ["html", "css", "js"],
