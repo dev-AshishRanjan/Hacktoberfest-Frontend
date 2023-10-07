@@ -144,6 +144,14 @@
     "Description": "Responsive Navigation Menu for your company's landing page."
   },
   {
+    "Name": "Typing Progress Bar",
+    "Author": "Mefisto",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Mefisto04",
+    "FilePath": "../projects/Typing Progress Bar/index.html",
+    "Description": "It is a Typing progess bar in which as you type progress bar will be completed.."
+  },
+  {
     "Name": "Stock purchase",
     "Author": "om sali",
     "tags": ["html", "css", "js"],
