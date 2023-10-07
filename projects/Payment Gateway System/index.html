@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Gateway System</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image" href="icon.png"/>
+</head>
+<body>
+    <div class="fullContainer banner" id="homeSection">
+        <header>
+            <div class="container">
+                <div class="logo">
+                    <img src="Logo.png" width="180" alt="Logo">
+                </div>
+                <nav>
+                    <ul>
+                        <li> 
+                            <a href="#homeSection">Home</a>
+                        </li>
+                        <li> 
+                            <a href="#aboutSection">About</a>
+                        </li>
+                        <li> 
+                            <a href="#programsSection">Food for Life</a>
+                        </li>
+                        <li> 
+                            <a href="#joinSection">Join Us</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <div class="container">
+            <h1>Together We Can <span> Save Lives</span></h1>
+            <button onclick="myFunc()" id="button">Donate Now!</button>
+        </div>
+    </div>
+    <script>
+        function myFunc(){
+            window.open("https://buy.stripe.com/28o8A9dz10pLedObII");
+        }
+    </script>
+
+<section class="fullContainer" id="aboutSection">
+    <div class="container">
+        <h2 class="sectionTitle">About Us</h2>
+        <p>Parivartan is a non-profit charitable organization that has dedicated itself to feeding the needy and the homeless throughout India. The organization aims to combat hunger by organizing food donation camps in various parts of the country, especially in areas where poverty is prevalent.
+        The volunteers of Parivartan work tirelessly to collect and distribute food to people who are struggling to make ends meet. They collect excess food from restaurants, weddings, and other social events, and distribute it to those in need. The organization also collaborates with local businesses, social groups, and other charitable organizations to increase the reach and impact of their food donation programs.</p>
+        <img src="food-for-life-collarge.jpg" id="img1" width="1000">
+    </div>
+</section>
+
+<section class="program" id="programsSection">
+    <div class="container">
+        <h2 class="sectionTitle">
+            Food for Life
+        </h2>
+        <p>
+            Food for Life is a food donation program initiated by Parivartan in 2023.The program aims to provide nutritious meals to people who are struggling to meet their basic needs due to poverty, illness, or any other adverse circumstances.
+
+The program operates by collecting surplus food from hotels, restaurants, and other sources, and distributing it to the needy through a network of volunteers. The food is carefully selected to ensure that it is fresh, healthy, and safe for consumption. Volunteers of the program work tirelessly to collect, sort, and distribute the food to the beneficiaries.
+
+Food for Life is not just a means of providing meals to the underprivileged but is also an initiative that fosters social responsibility and encourages people to reduce food wastage. The program emphasizes the importance of sharing and caring for others, and it has positively impacted the lives of many people in need.
+        </p>
+        <img src="Cooked-Meals-10.jpg" id="img" width="1000">
+        </div>
+        </div>
+        <p></p>
+    </div>
+</section>
+<section class="join" id="joinSection">
+    <div class="container">
+        <div class="joinTitle">DONATE FOOD & <span> SATISY THE HUMAN HUNGER</span> </div>
+<p>
+    Your kindness and generosity will help us feed 2 million people everyday
+</p>
+<button class="joinNow">JOIN US</button>
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <div class="newsLetterContainer">
+            <div class="title">Subscribe Newsletter</div>
+            <input type="text" placeholder="Enter your Email" />
+        </div>
+        <div class="linksContainer">
+            <div class="title">Useful Links</div>
+            <ul>
+                <li> 
+                    <a href="#homeSection">Home</a>
+                </li>
+                <li> 
+                    <a href="#aboutSection">About</a>
+                </li>
+                <li> 
+                    <a href="#programsSection">Food for Life</a>
+                </li>
+                <li> 
+                    <a href="#joinSection">Join Us</a>
+                </li>
+            </ul>
+        </div>
+        <div class="connectContainer">
+            <div class="title">Connect with Us</div>
+                <p>Sant Nagar, East of Kailash, New Delhi, Delhi</p>
+                <p>info@parivartan.org</p>
+                <p>(+91) 9282233222</p>
+            </div>
+        </div>
+    </div>
+</footer>
+</body>
+</html>

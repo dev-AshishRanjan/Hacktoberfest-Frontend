@@ -298,5 +298,17 @@
     "Github": "https://github.com/pandeydhruv2001",
     "FilePath": "../projects/Snake_Game/index.html",
     "Description": "Classic Snake Game Build with HTML,CSS and JS"
+  },
+  {
+    "Name": "Payment Gateway System",
+    "Author": "Dhruv Pandey",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/pandeydhruv2001",
+    "FilePath": "../projects/Payment Gateway System/index.html",
+    "Description": "Razorpay Integrated Payment Service with automatic receipts"
   }
 ]
