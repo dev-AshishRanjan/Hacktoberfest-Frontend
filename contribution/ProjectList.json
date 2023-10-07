@@ -286,5 +286,17 @@
     "Github": "https://github.com/EniolaAdemola",
     "FilePath": "../projects/Animated-Countdown/index.html",
     "Description": "It is a simple countdown animated website"
+  },
+  {
+    "Name": "Snake Game",
+    "Author": "Dhruv Pandey",
+    "tags": [
+      "html",
+      "css",
+      "js"
+    ],
+    "Github": "https://github.com/pandeydhruv2001",
+    "FilePath": "../projects/Snake_Game/index.html",
+    "Description": "Classic Snake Game Build with HTML,CSS and JS"
   }
 ]
