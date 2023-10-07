@@ -343,4 +343,13 @@
     "FilePath": "../projects/Background-Slider/index.html",
     "Description": "It is a Background Slider website"
   }
+  ,
+  {
+    "Name": "Analog Clock",
+    "Author": "Vishal Sharma",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Vishal2002",
+    "FilePath": "../projects/Clock/index.html",
+    "Description": "It is a Analog Clock to see Time"
+  }
 ]
