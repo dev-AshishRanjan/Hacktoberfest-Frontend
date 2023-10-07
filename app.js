@@ -91,7 +91,7 @@ function generateCard(ele) {
 }
 
 try {
-  fetch("https://api.github.com/repos/dev-AshishRanjan/Hacktoberfest-frontend/contributors")
+  fetch("https://api.github.com/repos/dev-AshishRanjan/Hacktoberfest-Frontend/contributors")
     .then((req) => req.json())
     .then((res) => {
       res.map((ele) => {
