@@ -306,13 +306,17 @@
   {
     "Name": "Payment Gateway System",
     "Author": "Dhruv Pandey",
-    "tags": [
-      "html",
-      "css",
-      "js"
-    ],
+    "tags": ["html", "css", "js"],
     "Github": "https://github.com/pandeydhruv2001",
     "FilePath": "../projects/Payment Gateway System/index.html",
     "Description": "Razorpay Integrated Payment Service with automatic receipts"
+  },
+  {
+    "Name": "Blurry Loading",
+    "Author": "Eniola Ademola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/Blurry-Loading/index.html",
+    "Description": "It is a Blurry Loading website"
   }
 ]
