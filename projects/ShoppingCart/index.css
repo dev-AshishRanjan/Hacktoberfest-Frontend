@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+  }
+  
+  .navbar {
+    background-color: rgb(5, 171, 5);
+  }
+  
+  .nav-item .nav-link {
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .nav-item {
+    margin-left: 3rem;
+  }
+  
+  .product h1 {
+    font-weight: bold;
+    font-size: 2rem;
+  }
+  .product-style small {
+    color: #670200;
+    font-weight: bold;
+  }
+  
+  footer {
+    background-color: #1d2647;
+  }
+  
+  .footer {
+    padding: 1rem;
+  }
+  
+  .footer h4 {
+    color: #fff;
+  }
+  
