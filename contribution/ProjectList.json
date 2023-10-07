@@ -375,5 +375,14 @@
     "Github": "https://github.com/Vishal2002",
     "FilePath": "../projects/Custom Video Controller/index.html",
     "Description": "It is a custom Video Player to Play Video made with HTML,CSS ,JS"
+  },
+  {
+    "Name": "ShoppingCart",
+    "Author": "Faith Njah",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/faithnjah",
+    "FilePath": "../projects/ShoppingCart/index.html",
+    "Description": "The best shopping cart in the world made with HTML and CSS "
   }
 ]
+
