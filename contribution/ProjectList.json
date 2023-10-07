@@ -16,6 +16,14 @@
     "Description": "It is a Pull Request Management in which You will add details related of PR."
   },
   {
+    "Name": "Neuromorphism Calculator",
+    "Author": "Akansh Bende",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/akanshbende",
+    "FilePath": "../projects/Neuromorphism_Caculator/index.html",
+    "Description": "INeuromorphism Calculator wih dark mode"
+  },
+  {
     "Name": "Drawing Website",
     "Author": "Jatin",
     "tags": ["html", "css", "js"],
