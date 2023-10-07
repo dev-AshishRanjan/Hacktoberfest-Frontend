@@ -351,5 +351,16 @@
     "Github": "https://github.com/Vishal2002",
     "FilePath": "../projects/Clock/index.html",
     "Description": "It is a Analog Clock to see Time"
+  },
+  {
+    "Name": "Custom Video Controller",
+    "Author": "Vishal Sharma",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Vishal2002",
+    "FilePath": "../projects/Custom Video Controller/index.html",
+    "Description": "It is a custom Video Player to Play Video made with HTML,CSS ,JS"
   }
+  
+  
+  
 ]
