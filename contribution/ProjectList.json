@@ -320,6 +320,14 @@
     "Description": "Razorpay Integrated Payment Service with automatic receipts"
   },
   {
+    "Name": "Blurry Loading",
+    "Author": "Eniola Ademola",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/EniolaAdemola",
+    "FilePath": "../projects/Blurry-Loading/index.html",
+    "Description": "It is a Blurry Loading website"
+  },
+  {
     "Name": "Background Slider",
     "Author": "Eniola Ademola",
     "tags": ["html", "css", "js"],
