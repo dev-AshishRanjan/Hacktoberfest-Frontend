@@ -74,7 +74,7 @@
   {
     "Name": "Clock_Ui ",
     "Author": "akanshbende",
-    "tags": ["html", "css", "js", "scss"],
+    "tags": ["html", "css", "scss"],
     "Github": "https://github.com/akanshbende",
     "FilePath": "../projects/Clock_Ui/index.html",
     "Description": "Neuromorphism Analog Clock with Dark and Lignt mode"
