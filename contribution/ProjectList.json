@@ -432,6 +432,14 @@
     "Github": "https://github.com/susanhsrestha",
     "FilePath": "../projects/ToDoList/index.html",
     "Description": "A simple to-do list tracker."
+  },
+  {
+    "Name": "Typing Speed Game",
+    "Author": "Krishna Mundada",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/krishna050702",
+    "FilePath": "../projects/Typing_Game/index.html",
+    "Description": "A simple game type format to check youor typing speed."
 
   }
 ]
