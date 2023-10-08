@@ -104,6 +104,14 @@
     "Description": "A web based dice game."
   },
   {
+    "Name": "Car Price  Filter",
+    "Author": "Mefisto",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Mefisto04",
+    "FilePath": "../projects/Car Price Filter/index.html",
+    "Description": "It is a car price filter in which you can filter out car on basis of price."
+  },
+  {
     "Name": "GPA Calculator",
     "Author": "Shubham Kamboj",
     "tags": ["html", "css", "js"],
