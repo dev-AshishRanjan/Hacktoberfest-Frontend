@@ -385,6 +385,14 @@
     "Description": "It is a custom Video Player to Play Video made with HTML,CSS ,JS"
   },
   {
+    "Name": "ShoppingCart",
+    "Author": "Faith Njah",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/faithnjah",
+    "FilePath": "../projects/ShoppingCart/index.html",
+    "Description": "The best shopping cart in the world made with HTML and CSS "
+  },
+  {
     "Name": "Calculator type 2",
     "Author": "s-bhalode",
     "tags": ["html", "css", "js"],
@@ -401,3 +409,4 @@
     "Description": "It is fun color simon game built using HTML,CSS ,JS"
   }
 ]
+
