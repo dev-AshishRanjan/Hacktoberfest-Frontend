@@ -104,6 +104,14 @@
     "Description": "A web based dice game."
   },
   {
+    "Name": "Car Price  Filter",
+    "Author": "Mefisto",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Mefisto04",
+    "FilePath": "../projects/Car Price Filter/index.html",
+    "Description": "It is a car price filter in which you can filter out car on basis of price."
+  },
+  {
     "Name": "GPA Calculator",
     "Author": "Shubham Kamboj",
     "tags": ["html", "css", "js"],
@@ -409,12 +417,22 @@
     "Description": "It is fun color simon game built using HTML,CSS ,JS"
   },
   {
+
     "Name": "Lazy-loader",
     "Author": "Krishna Mundada",
     "tags": ["html", "css", "js"],
     "Github": "https://github.com/krishna050702",
     "FilePath": "../projects/Lazy-loader/index.html",
     "Description": "A nice lazy-loading animation in js for website."
+  },
+  {
+    "Name": "To Do List",
+    "Author": "Susan Shrestha",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/susanhsrestha",
+    "FilePath": "../projects/ToDoList/index.html",
+    "Description": "A simple to-do list tracker."
+
   }
 ]
 
