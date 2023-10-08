@@ -385,6 +385,14 @@
     "Description": "It is a custom Video Player to Play Video made with HTML,CSS ,JS"
   },
   {
+    "Name": "Calculator type 2",
+    "Author": "s-bhalode",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/s-bhalode",
+    "FilePath": "../projects/calculator2/index.html",
+    "Description": "Simple Calculator built using HTML, CSS & JS"
+  },
+  {
     "Name": "Simon Game",
     "Author": "Hardik Panwar",
     "tags": ["html", "css", "js"],
