@@ -152,6 +152,14 @@
     "Description": "Responsive Navigation Menu for your company's landing page."
   },
   {
+    "Name": "Typing Progress Bar",
+    "Author": "Mefisto",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Mefisto04",
+    "FilePath": "../projects/Typing Progress Bar/index.html",
+    "Description": "It is a Typing progess bar in which as you type progress bar will be completed.."
+  },
+  {
     "Name": "Stock purchase",
     "Author": "om sali",
     "tags": ["html", "css", "js"],
@@ -383,6 +391,22 @@
     "Github": "https://github.com/faithnjah",
     "FilePath": "../projects/ShoppingCart/index.html",
     "Description": "The best shopping cart in the world made with HTML and CSS "
+  },
+  {
+    "Name": "Calculator type 2",
+    "Author": "s-bhalode",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/s-bhalode",
+    "FilePath": "../projects/calculator2/index.html",
+    "Description": "Simple Calculator built using HTML, CSS & JS"
+  },
+  {
+    "Name": "Simon Game",
+    "Author": "Hardik Panwar",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/HardikPanwar",
+    "FilePath": "../projects/Color_simon_game/index.html",
+    "Description": "It is fun color simon game built using HTML,CSS ,JS"
   }
 ]
 
