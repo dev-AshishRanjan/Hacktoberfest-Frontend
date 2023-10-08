@@ -433,6 +433,14 @@
     "FilePath": "../projects/ToDoList/index.html",
     "Description": "A simple to-do list tracker."
 
-  }
+  },
+  {
+  "Name": "TicTacToe",
+  "Author": "Debarjun Chakraborty",
+  "tags": ["html", "css", "js", "gif", "mp3"],
+  "Github": "https://github.com/DebarjunChakraborty",
+  "FilePath": "../projects/TicTacToe/index.html",
+  "Description": "A fun TicTacToe Game that will give nostalgic feeling of schoolife."
+}
 ]
 
