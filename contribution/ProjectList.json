@@ -456,6 +456,14 @@
     "Github": "https://github.com/DebarjunChakraborty",
     "FilePath": "../projects/TicTacToe/index.html",
     "Description": "A fun TicTacToe Game that will give nostalgic feeling of schoolife."
+  },
+  {
+    "Name": "Ligh-Dark-Mode-Toggle",
+    "Author": "Amit Kumar Singh",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/iamit010",
+    "FilePath": "../projects/Light-Dark-Mode-Toggle/index.html",
+    "Description": "Toggle Dark/Light Mode. Click the button to toggle between dark and light mode for this page."
   }
 ]
 
