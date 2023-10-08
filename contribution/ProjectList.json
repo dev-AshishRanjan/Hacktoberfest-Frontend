@@ -415,6 +415,14 @@
     "Github": "https://github.com/HardikPanwar",
     "FilePath": "../projects/Color_simon_game/index.html",
     "Description": "It is fun color simon game built using HTML,CSS ,JS"
+  },
+  {
+    "Name": "To Do List",
+    "Author": "Susan Shrestha",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/susanhsrestha",
+    "FilePath": "../projects/ToDoList/index.html",
+    "Description": "A simple to-do list tracker."
   }
 ]
 
