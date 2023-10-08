@@ -417,7 +417,6 @@
     "Description": "It is fun color simon game built using HTML,CSS ,JS"
   },
   {
-
     "Name": "Lazy-loader",
     "Author": "Krishna Mundada",
     "tags": ["html", "css", "js"],
@@ -432,15 +431,31 @@
     "Github": "https://github.com/susanhsrestha",
     "FilePath": "../projects/ToDoList/index.html",
     "Description": "A simple to-do list tracker."
+  },
+  {
+    "Name": "Typing Speed Game",
+    "Author": "Krishna Mundada",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/krishna050702",
+    "FilePath": "../projects/Typing_Game/index.html",
+    "Description": "A simple game type format to check youor typing speed."
 
   },
   {
-  "Name": "YouTube Video Id Finder",
-  "Author": "Satya Prakash",
-  "tags": ["html", "css"],
-  "Github": "https://github.com/saty-a/YouTube-Video-Id-Finder",
-  "FilePath": "../projects/YouTube Video Id Finder/index.html",
-  "Description": "A Tool for finding a video id of a video over YouTube platform."
-}
+    "Name": "YouTube Video Id Finder",
+    "Author": "Satya Prakash",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/saty-a/YouTube-Video-Id-Finder",
+    "FilePath": "../projects/YouTube Video Id Finder/index.html",
+    "Description": "A Tool for finding a video id of a video over YouTube platform."
+  },
+  {
+    "Name": "TicTacToe",
+    "Author": "Debarjun Chakraborty",
+    "tags": ["html", "css", "js", "gif", "mp3"],
+    "Github": "https://github.com/DebarjunChakraborty",
+    "FilePath": "../projects/TicTacToe/index.html",
+    "Description": "A fun TicTacToe Game that will give nostalgic feeling of schoolife."
+  }
 ]
 
