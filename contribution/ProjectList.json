@@ -417,12 +417,22 @@
     "Description": "It is fun color simon game built using HTML,CSS ,JS"
   },
   {
+
+    "Name": "Lazy-loader",
+    "Author": "Krishna Mundada",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/krishna050702",
+    "FilePath": "../projects/Lazy-loader/index.html",
+    "Description": "A nice lazy-loading animation in js for website."
+  },
+  {
     "Name": "To Do List",
     "Author": "Susan Shrestha",
     "tags": ["html", "css", "js"],
     "Github": "https://github.com/susanhsrestha",
     "FilePath": "../projects/ToDoList/index.html",
     "Description": "A simple to-do list tracker."
+
   }
 ]
 
