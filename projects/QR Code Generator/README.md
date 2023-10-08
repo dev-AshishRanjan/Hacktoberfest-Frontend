@@ -41,6 +41,8 @@ To run this QR code generator on your local machine, follow these steps:
 
 5. Your QR code will be displayed on the screen.
 
+6. Download the QR Code file.
+
 
 
 ## Contributing
