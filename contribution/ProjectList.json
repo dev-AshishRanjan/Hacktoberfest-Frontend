@@ -493,6 +493,6 @@
     "tags": ["html", "css", "js"],
     "Github": "https://github.com/Aaryash-Shakya",
     "FilePath": "../projects/Stopwatch/index.html",
-    "Description": "A simple stopwatch application with 4 core features: start, stop, lap, reset"
+    "Description": "A simple stopwatch application with 4 core features: start, stop, lap, reset."
   }
 ]
