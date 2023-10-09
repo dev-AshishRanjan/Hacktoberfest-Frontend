@@ -441,6 +441,15 @@
     "FilePath": "../projects/Typing_Game/index.html",
     "Description": "A simple game type format to check youor typing speed."
 
+  },
+  {
+    "Name": "Emoji Catcher Game",
+    "Author": "Krishna Mundada",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/krishna050702",
+    "FilePath": "../projects/Emoji_Catcher_Game/index.html",
+    "Description": "A simple emoji catcher game to increase browse time on website."
+
   }
 ]
 
