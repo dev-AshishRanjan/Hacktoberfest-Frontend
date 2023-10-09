@@ -440,6 +440,14 @@
     "Description": "A simple game type format to check youor typing speed."
   },
   {
+    "Name": "Emoji Catcher Game",
+    "Author": "Krishna Mundada",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/krishna050702",
+    "FilePath": "../projects/Emoji_Catcher_Game/index.html",
+    "Description": "A simple emoji catcher game to increase browse time on website."
+  },
+  {
     "Name": "YouTube Video Id Finder",
     "Author": "Satya Prakash",
     "tags": ["html", "css"],
@@ -470,5 +478,13 @@
     "Github": "https://github.com/irvn0x",
     "FilePath": "../projects/Login-Page/index.html",
     "Description": "a simple login form page using html and css"
+  },
+  {
+    "Name": "Random Meme Generator",
+    "Author": "Susan Shrestha",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/susanhsrestha",
+    "FilePath": "../projects/RandomMemeGenerator/index.html",
+    "Description": "A simple application that fetches random memes from different subreddits."
   }
 ]

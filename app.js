@@ -1,6 +1,9 @@
 // app.js file
 
 // code for fetch for projects
+function compareByName(a, b) {
+  return a.Name.localeCompare(b.Name);
+}
 let ProjectList;
 const projectBody = document.querySelector(".projects");
 
@@ -13,6 +16,7 @@ fetch("./contribution/ProjectList.json")
   })
   .then((data) => {
     ProjectList = data;
+    ProjectList.sort(compareByName);
     console.log({ ProjectList });
     // code for cards creation on homepage
     ProjectList.map((project) => {

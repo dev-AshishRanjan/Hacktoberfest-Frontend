@@ -376,6 +376,7 @@ main {
 }
 
 @media (min-width:800px) {
+  
   ::-webkit-scrollbar {
     width: 10px;
     opacity: 0.7;
@@ -402,5 +403,9 @@ main {
   ::-moz-scrollbar-thumb {
     background: var(--primary-3);
     border-radius: 0.1rem;
+  }
+
+  main::-webkit-scrollbar {
+    width:0;
   }
 }
