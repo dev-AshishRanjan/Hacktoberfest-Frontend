@@ -29,13 +29,13 @@ const getTwoDigit = (val) => {
 const stopwatch = () => {
     if (clockActive) {
         // increment millisecond.
-        if (++millisecond == 100) {
+        if (++millisecond === 100) {
             // if millisecond == 100 then reset millisecond and increment second
             millisecond = 0
-            if (++second == 60) {
+            if (++second === 60) {
                 // if second == 60 then reset second and increment minute
                 second = 0
-                if (++minute == 60) {
+                if (++minute === 60) {
                     // if minute == 60 then reset minute and increment hour
                     minute = 0
                     hour++

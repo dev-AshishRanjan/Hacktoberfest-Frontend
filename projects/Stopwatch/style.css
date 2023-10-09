@@ -85,7 +85,8 @@ button {
     border: 1px solid var(--secondary);
 }
 
-button:hover,button:focus {
+button:hover,
+button:focus {
     filter: saturate(1.8);
     box-shadow: 0 0 15px 1px rgba(255, 255, 255, 0.2);
 }
@@ -118,6 +119,6 @@ button:hover,button:focus {
     margin-top: 5px;
 }
 
-.margin-x{
+.margin-x {
     margin: 5px 1rem;
 }
