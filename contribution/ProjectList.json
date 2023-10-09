@@ -374,8 +374,7 @@
     "Github": "https://github.com/EniolaAdemola",
     "FilePath": "../projects/Background-Slider/index.html",
     "Description": "It is a Background Slider website"
-  }
-  ,
+  },
   {
     "Name": "Analog Clock",
     "Author": "Vishal Sharma",
@@ -439,7 +438,6 @@
     "Github": "https://github.com/krishna050702",
     "FilePath": "../projects/Typing_Game/index.html",
     "Description": "A simple game type format to check youor typing speed."
-
   },
   {
     "Name": "YouTube Video Id Finder",
@@ -464,6 +462,13 @@
     "Github": "https://github.com/iamit010",
     "FilePath": "../projects/Light-Dark-Mode-Toggle/index.html",
     "Description": "Toggle Dark/Light Mode. Click the button to toggle between dark and light mode for this page."
+  },
+  {
+    "Name": "Login Page",
+    "Author": "Dostoevskie",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/irvn0x",
+    "FilePath": "../projects/Login-Page/index.html",
+    "Description": "a simple login form page using html and css"
   }
 ]
-
