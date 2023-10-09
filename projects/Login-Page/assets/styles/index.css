@@ -1,0 +1,59 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+body {
+    height: 100%;
+    background-image: url('../images/background.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+#cover {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(173, 83, 137, 0.65));
+}
+#form-container {
+    background-color: #fff;
+    border-radius: 0.25rem;
+    padding: 20px 20px 10px;
+    text-align: center;
+}
+#form-container img {
+    height: 75px;
+    width: 75px;
+}
+#form-container form {
+    text-align: left;
+}
+#form-container label {
+    color: #666;
+}
+#form-container small {
+    color: #808080;
+}
+#form-container .form-control {
+    border-right: unset;
+}
+#form-container .form-control:focus {
+    box-shadow: unset;
+    border-color: #ced4da;
+}
+#form-container .input-group-text {
+    background-color: #fff;
+    border-left: unset;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+}
+#form-container button {
+    color: #666;
+}
+#form-container button.float-right {
+    background-color: rgba(173, 83, 137, 0.85);
+    color: #f2f2f2;
+    padding: 5px 20px;
+}
+#form-container button.float-right:hover {
+    background-color: rgba(173, 83, 137, 0.9);
+    color: #fff;
+}
