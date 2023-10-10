@@ -79,10 +79,15 @@ Steps to contribute to this project:
 
 ### Process of Contribution
 
-1._Fork_ : Fork this GitHub Repo to your own github account 2._Clone_ : Clone the forked repo (the repo present on your account) to your local machine.
+1._Fork_ : Fork this GitHub Repo to your own github account 2._Clone_ : Clone the forked repo (the repo present on your account) to your local machine. Don't forget to add your username.
 
 ```terminal
-git clone https://github.com/dev-AshishRanjan/Hacktoberfest-Frontend.git
+git clone https://github.com/[username]/Hacktoberfest-Frontend.git
+```
+2.Get in the Hacktoberfest-Frontend folder.
+
+```markdown
+cd Hacktoberfest-Frontend
 ```
 
 3.Create a _new Branch_
