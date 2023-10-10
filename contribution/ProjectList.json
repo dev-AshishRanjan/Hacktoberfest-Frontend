@@ -745,14 +745,14 @@
   },
   {
     "Name": "Notes App",
-    "Author": "adhikari-dikshant",
+    "Author": "Dikshant Singh Adhikari",
     "tags": [
       "html",
       "css",
       "js"
     ],
     "Github": "https://github.com/adhikari-dikshant",
-    "FilePath": "../projects/Notes App/index.html",
-    "Description": "Note Taking application."
+    "FilePath": "../projects/Notes-App/index.html",
+    "Description": "Simple and responsive note taking web application."
   }
 ]
