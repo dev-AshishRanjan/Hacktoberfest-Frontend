@@ -1,0 +1,74 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #74b9ff, #0984e3);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    animation: gradientBackground 10s infinite;
+}
+
+@keyframes gradientBackground {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.container {
+    text-align: center;
+    animation: fadeIn 1s;
+}
+
+.quote-box {
+    background-color: #3498db;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+i {
+    font-size: 1.5rem;
+    color: #f39c12;
+}
+
+#quote-text, #author {
+    font-size: 1.5rem;
+    margin: 20px 0;
+    opacity: 0;
+    animation: fadeIn 2s;
+}
+
+#new-quote {
+    background-color: #f39c12;
+    color: #333;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#new-quote:hover {
+    background-color: #f1c40f;
+}
+
+.hidden {
+    display: none;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
