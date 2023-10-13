@@ -754,5 +754,13 @@
     "Github": "https://github.com/adhikari-dikshant",
     "FilePath": "../projects/Notes-App/index.html",
     "Description": "Simple and responsive note taking web application."
+  },
+  {
+    "Name": "Rick and Morty Encyclopedia",
+    "Author": "Pratik Singh",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/PratikTomar",
+    "FilePath": "../projects/Rick_Morty_Encyclopedia/public/index.html",
+    "Description": "A web app for exploring characters from the Rick and Morty series with search and pagination features."
   }
 ]
