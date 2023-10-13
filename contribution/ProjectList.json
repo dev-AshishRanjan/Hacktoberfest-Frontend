@@ -762,5 +762,13 @@
     "Github": "https://github.com/PratikTomar",
     "FilePath": "../projects/Rick_Morty_Encyclopedia/public/index.html",
     "Description": "A web app for exploring characters from the Rick and Morty series with search and pagination features."
+  },
+  {
+    "Name": "Finance app",
+    "Author": "Parag-dwn",
+    "tags": ["html", "css", "js","Python"],
+    "Github": "https://github.com/Parag-dwn",
+    "FilePath": "../projects/finance-app/script1.py",
+    "Description": "This is a Simple Webbased Finance Graph".
   }
 ]
