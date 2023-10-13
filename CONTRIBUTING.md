@@ -22,7 +22,14 @@ Steps to contribute to this project:
     "Description": "Small And Breif description is needed which explains your project."
   }
   ```
-
+{
+  "Name": "Finance app",
+  "Author": "Parag-dwn",
+  "tags": ["html", "css", "js","Python"],
+  "Github": "https://github.com/Parag-dwn",
+  "FilePath": "../projects/finance-app/script1.py",
+  "Description": "This is a Simple Webbased Finance Graph".
+}
 - Note :
   - Name : Project's Name
   - Author : Your Name
