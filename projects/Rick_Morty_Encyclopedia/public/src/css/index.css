@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+body {
+  background-color: rgb(46, 46, 105);
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bag {
+  height: 20px;
+}
+
+.container {
+  margin-bottom: 16px;
+}
+
+section {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+section input {
+  padding: 10px;
+  height: 44px;
+  border: 1px solid #974df9e3;
+  border-radius: 5px;
+  background-color: #974df9;
+  color: #ffffff;
+}
+
+section input::placeholder {
+  color: white;
+}
+
+.tiles-grid {
+  display: grid;
+  grid-template-columns: auto;
+  gap: 10px;
+  text-align: center;
+}
+
+.tiles-grid .grid-item {
+  display: flex;
+  z-index: 1;
+  flex-direction: column;
+  padding: 20px;
+  border: 1px solid #999;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.tiles-grid .grid-item img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+}
+
+.tiles-grid .grid-item a {
+  margin: 0;
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.pages {
+  text-align: center;
+}
+
+.next-page {
+  cursor: pointer;
+  color: #974df9;
+}
+
+.loader {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  display: none;
+  z-index: 9999;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+@media screen and (min-width: 767px) {
+  .tiles-grid {
+    grid-template-columns: auto auto;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .tiles-grid {
+    grid-template-columns: auto auto auto;
+  }
+}
