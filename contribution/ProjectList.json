@@ -778,5 +778,14 @@
     "Github": "https://github.com/VishnuSandeep1108/",
     "FilePath": "../projects/Color_Selector/index.html",
     "Description": "Simple Web based color selector made using HTML, CSS, JS"
+    "Description": "This is a Simple Webbased Finance Graph".
+  },
+  {
+  "Name": "Shooting Game",
+  "Author": "Darshit-Dudhaiya",
+  "tags": ["html", "css", "js", "canvas"],
+  "Github": "https://github.com/darshitdudhaiya",
+  "FilePath": "../projects/shooting game/game.html",
+  "Description": "shooting game in html, css, js"
   }
 ]
