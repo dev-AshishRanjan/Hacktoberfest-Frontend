@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+}
+
+h1{
+  font-size: 300%;
+}
+
+.bulb{
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 50%;
+  margin-top: 150px;
+  margin-left: 200px;
+}
+
+table{
+  margin-top: -320px;
+  margin-left: 900px;
+}
+
+button{
+  width: 80px;
+  height: 80px;
+  margin: 5px;
+  border-radius: 8px;
+}
+
+button:hover{
+  border-color: gold;
+}

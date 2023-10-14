@@ -769,6 +769,14 @@
     "tags": ["html", "css", "js","Python"],
     "Github": "https://github.com/Parag-dwn",
     "FilePath": "../projects/finance-app/script1.py",
-    "Description": "This is a Simple Webbased Finance Graph".
+    "Description": "This is a Simple Webbased Finance Graph"
+  },
+  {
+    "Name": "Color Selector",
+    "Author": "Vishnu Sandeep",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/VishnuSandeep1108/",
+    "FilePath": "../projects/Color_Selector/index.html",
+    "Description": "Simple Web based color selector made using HTML, CSS, JS"
   }
 ]
