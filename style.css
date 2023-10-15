@@ -203,6 +203,7 @@ main {
 .theme-icon {
   color: var(--primary-3);
   font-size: 1.5rem;
+  cursor: pointer;
 }
 
 /* navbar */
