@@ -790,7 +790,7 @@
   {
     "Name": "BMI Calculator",
     "Author": "Kshitiz Vardhan",
-    "tags": ["html","css"]
+    "tags": ["html","css"],
     "Github": "https://github.com/kshitizvardhan",
     "FilePath": "../projects/BMI Calculator/index.html",
     "Description": "A landing page with BMI information and a BMI Calculator fully styled. only js required."
