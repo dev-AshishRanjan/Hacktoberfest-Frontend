@@ -794,5 +794,13 @@
     "Github": "https://github.com/kshitizvardhan",
     "FilePath": "../projects/BMI Calculator/index.html",
     "Description": "A landing page with BMI information and a BMI Calculator fully styled. only js required."
+  },
+  {
+    "Name": "Portfolio Website",
+    "Author": "Raghav Sharma",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/RAGHAVS1304",
+    "FilePath": "../projects/Portfolio/index.html",
+    "Description": "A portfolio website, designed to showcase all our skills at one place."
   }
 ]
