@@ -207,22 +207,7 @@
     "FilePath": "../projects/Web-Audio-Drum-Machine/index.html",
     "Description": "Drum machine / sequencer based on Web Audio API"
   },
-  {
-    "Name": "My Portfolio",
-    "Author": "ro78ldt",
-    "tags": ["html", "css"],
-    "Github": "https://github.com/ro78ldt",
-    "FilePath": "../projects/My-Portfolio/index.html",
-    "Description": "A simple portfolio website"
-  },
-  {
-    "Name": "Gym Landing Page",
-    "Author": "ro78ldt",
-    "tags": ["html", "css"],
-    "Github": "https://github.com/ro78ldt",
-    "FilePath": "../projects/Gym-Website/index.html",
-    "Description": "Landing page of a Gym"
-  },
+
   {
     "Name": "QR Code Generator",
     "Author": "Ej",
@@ -558,5 +543,14 @@
     "Github": "https://github.com/shresritik",
     "FilePath": "../projects/Password Generator/password.html",
     "Description": "A unique password-generating website based on the conditions."
+  },
+
+  {
+    "Name": "Gym Website",
+    "Author": "ro78ldt",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/ro78ldt",
+    "FilePath": "../projects/Gym Website/index.html",
+    "Description": "This is a simple Gym Website using HTML and CSS."
   }
 ]
