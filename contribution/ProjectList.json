@@ -504,6 +504,14 @@
     "Description": "Simple and responsive note taking web application."
   },
   {
+  "Name": "resume Project",
+  "Author": "surya",
+  "tags": ["html", "css"],
+  "Github": "https://github.com/suryakantdubalgundeoutlook",
+  "FilePath": "../projects/resume-Project/resume.html",
+  "Description": "Resume Sample"
+}.
+  {
     "Name": "Rick and Morty Encyclopedia",
     "Author": "Pratik Singh",
     "tags": ["html", "css", "js"],
