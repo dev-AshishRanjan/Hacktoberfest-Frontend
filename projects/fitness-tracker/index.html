@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fitness Tracker</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div id="container">
+    <h1>Fitness Tracker</h1>
+    <div class="parts">
+        <div id="log-workout">
+            <h2>Log a Workout</h2>
+            <label for="activity">Activity:</label>
+            <input type="text" id="activity">
+            <label for="duration">Duration (minutes):</label>
+            <input type="number" id="duration">
+            <button id="log">Log Workout</button>
+        </div>
+        <div id="workout-history">
+            <h2>Workout History</h2>
+            <ul id="workouts"></ul>
+        </div>
+    </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

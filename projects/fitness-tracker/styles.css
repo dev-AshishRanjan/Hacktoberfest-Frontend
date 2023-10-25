@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+#container {
+  margin: 0 auto;
+  padding: 20px ;
+}
+
+.parts{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #0056b3;
+}
+h2{
+    font-size: 2rem;
+}
+
+#log-workout, #workout-history {
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    min-width: 40vw;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 20px;
+}
+
+label, input {
+  display: block;
+  margin-bottom: 10px;
+}
+input{
+    font-size: 1.25rem;
+
+}
+
+button {
+  background: #007BFF;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}

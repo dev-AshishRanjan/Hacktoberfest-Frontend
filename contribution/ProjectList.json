@@ -566,5 +566,13 @@
     "Github": "https://github.com/shresritik",
     "FilePath": "../projects/Password Generator/password.html",
     "Description": "A unique password-generating website based on the conditions."
+  },
+  {
+    "Name": "Fitness Tracker",
+    "Author": "Shivam36998",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Shivam36998",
+    "FilePath": "../projects/fitness-tracker/index.html",
+    "Description": "A simple project that helps the person to keep the track of a exrecises he performed in a session."
   }
 ]
