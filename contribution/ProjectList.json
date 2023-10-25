@@ -296,6 +296,14 @@
     "Description": "A simple temperature converter that converts Celsius to Fahrenheit and vice versa."
   },
   {
+    "Name": "Food Market",
+    "Author": "Mefisto",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Mefisto04",
+    "FilePath": "../projects/Food Market/index.html",
+    "Description": "It is a Food Market Management System."
+  },
+  {
     "Name": "Hello from Brazil",
     "Author": "Thalmonn Sales",
     "tags": ["html", "css", "js"],
