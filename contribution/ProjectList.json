@@ -566,5 +566,13 @@
     "Github": "https://github.com/shresritik",
     "FilePath": "../projects/Password Generator/password.html",
     "Description": "A unique password-generating website based on the conditions."
+  },
+  {
+    "Name": "ZOMATO-PROJECT",
+    "Author": "Veerala Rupa",
+    "tags": ["html", "CSS"],
+    "Github": "https://github.com/Veerala-Rupa",
+    "FilePath": "../projects/ZOMATO-PROJECT/index.html",
+    "Description": "Zomato Landing Page by using HTML and CSS."
   }
 ]
