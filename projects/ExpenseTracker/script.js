@@ -17,7 +17,7 @@ const localStorageTransactions = JSON.parse(
   localStorage.getItem('transactions')
 );
 
-let transactions =
+const transactions =
   localStorage.getItem('transactions') !== null ? localStorageTransactions : [];
 
 // Add transaction
@@ -78,15 +78,10 @@ function updateValues() {
 
   const total = amounts.reduce((acc, item) => (acc += item), 0).toFixed(2);
 
-  const income = amounts
-    .filter(item => item > 0)
-    .reduce((acc, item) => (acc += item), 0)
-    .toFixed(2);
+  const income = amounts.filter(item => item > 0).reduce((acc, item) => (acc += item), 0).toFixed(2);
 
   const expense = (
-    amounts.filter(item => item < 0).reduce((acc, item) => (acc += item), 0) *
-    -1
-  ).toFixed(2);
+    amounts.filter(item => item < 0).reduce((acc, item) => (acc += item), 0) * -1).toFixed(2);
 
   balance.innerText = `$${total}`;
   money_plus.innerText = `$${income}`;
