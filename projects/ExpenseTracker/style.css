@@ -50,12 +50,9 @@ h4 {
   margin: 20px 0;
 }
 
-.inc-exp-container > div {
+.inc-exp-container > .first-div {
   flex: 1;
   text-align: center;
-}
-
-.inc-exp-container > div:first-of-type {
   border-right: 1px solid #4B527E;
 }
 
@@ -80,8 +77,8 @@ label {
 
 input[type='text'],
 input[type='number'] {
-    background-color: #4B527E;
-    color: #E5C3A6;
+  background-color: #4B527E;
+  color: #E5C3A6;
   border: 1px solid #4B527E;
   border-radius: 2px;
   display: block;
