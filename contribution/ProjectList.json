@@ -582,5 +582,13 @@
     "Github": "https://github.com/Shivam36998",
     "FilePath": "../projects/fitness-tracker/index.html",
     "Description": "A simple project that helps the person to keep the track of a exrecises he performed in a session."
+  },
+  {
+    "Name": "Zomato Landing Page",
+    "Author": "b-abhijit",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/b-abhijit",
+    "FilePath": "../projects/zomato-landing-page/index.html",
+    "Description": "A simple landing page for zomato"
   }
 ]
