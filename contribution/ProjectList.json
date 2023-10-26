@@ -590,5 +590,13 @@
     "Github": "https://github.com/tusharpamnani",
     "FilePath": "../projects/ExpenseTracker/index.html",
     "Description": "A simple project that helps you track your expenses in a single place."
+  },
+  {
+    "Name": "Marvel Music Player",
+    "Author": "Purna Shrestha",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/purnasth",
+    "FilePath": "../projects/Marvel-Music-Player/index.html",
+    "Description": "A functional music player that lets the user to play the songs, try shuffle mode, repeat the song."
   }
 ]
