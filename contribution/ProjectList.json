@@ -584,6 +584,14 @@
     "Description": "A simple project that helps the person to keep the track of a exrecises he performed in a session."
   },
   {
+    "Name": "Expense Tracker",
+    "Author": "tusharpamnani",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/tusharpamnani",
+    "FilePath": "../projects/ExpenseTracker/index.html",
+    "Description": "A simple project that helps you track your expenses in a single place."
+  },
+  {
     "Name": "Marvel Music Player",
     "Author": "Purna Shrestha",
     "tags": ["html", "css", "js"],
