@@ -592,6 +592,14 @@
     "Description": "A simple project that helps you track your expenses in a single place."
   },
   {
+    "Name": "Meme-Generator",
+    "Author": "ShashankPatil35",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/ShashankPatil35",
+    "FilePath": "../projects/Meme-Generator/index.html",
+    "Description": "A simple project thats generates Meme."
+  },
+  {
     "Name": "Marvel Music Player",
     "Author": "Purna Shrestha",
     "tags": ["html", "css", "js"],
