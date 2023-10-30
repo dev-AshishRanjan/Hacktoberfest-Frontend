@@ -48,6 +48,14 @@
     "Description": "Analog clock created using HTML+CSS+JS, with all the real world analog clock features i.e hands, motion etc. Very beautiful UI for the clock"
   },
   {
+    "Name": "Color Picker Project",
+    "Author": "Mefisto",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Mefisto04",
+    "FilePath": "../projects/Color-Picker/index.html",
+    "Description": "It is a Color Picker Projec using html,css and js."
+  },
+  {
     "Name": "chatbot",
     "Author": "Akshita",
     "tags": ["html", "css", "js", "tables"],
