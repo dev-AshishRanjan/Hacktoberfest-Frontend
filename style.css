@@ -99,12 +99,13 @@ main {
 
 .projects,
 .contributors {
-  width: 100%;
-  padding: 2rem;
+  width: 100vw;
+  /* padding: 2rem; */
   display: flex;
+  flex-direction: column;
   justify-content: center;
   /* height: 500vh; */
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   gap: 1.5rem 1rem;
   position: relative;
   padding-top: 15rem;
@@ -141,6 +142,25 @@ main {
   font-size: 5rem;
   letter-spacing: -10px;
   margin-bottom: 1.5rem;
+}
+
+.group{
+  width: 100%;
+  padding: 2rem;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 1.5rem 1rem;
+  position: relative;
+  padding-top: 4rem;
+}
+
+.group .groupheader{
+  font-family: "splash";
+  font-size: 2rem;
+  position: absolute;
+  top: 0;
+  left: 2rem;
 }
 
 .card {
@@ -356,6 +376,10 @@ main {
   .contributors h1 {
     font-size: 2rem;
     letter-spacing: -2px;
+  }
+
+  .group .groupheader{
+    font-size: 2rem;
   }
 
   .contact-form h3 {
