@@ -100,17 +100,21 @@ main {
 .projects,
 .contributors {
   width: 100vw;
-  /* padding: 2rem; */
   display: flex;
   flex-direction: column;
   justify-content: center;
-  /* height: 500vh; */
-  /* flex-wrap: wrap; */
   gap: 1.5rem 1rem;
   position: relative;
   padding-top: 15rem;
   background: radial-gradient(circle at left, var(--primary-1) 20%, transparent 45%, transparent) 0/100vw 250vh,
     radial-gradient(circle at right, var(--primary-1) 2%, transparent 15%, transparent) 0/100vw 750vh;
+}
+
+.contributors {
+  flex-direction: row;
+  padding: 2rem;
+  flex-wrap: wrap;
+  padding-top: 15rem;
 }
 
 .smoke {
