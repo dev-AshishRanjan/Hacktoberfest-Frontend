@@ -325,6 +325,7 @@ main {
   color: var(--text-head);
   border-radius: 0.3rem;
   transition: all 0.1s ease-in-out;
+  cursor: pointer;
 }
 
 .btn:hover {
