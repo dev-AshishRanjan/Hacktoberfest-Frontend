@@ -176,7 +176,8 @@ if (window.location.pathname === "/contributors.html") {
         if (resList.length === 0) {
           resList = [
             {
-              avatar_url: "https://avatars.githubusercontent.com/u/94990764?v=4",
+              avatar_url:
+                "https://avatars.githubusercontent.com/u/94990764?v=4",
               login: "No Match Found",
               contributions: 0,
             },
@@ -206,3 +207,10 @@ if (window.location.pathname === "/contributors.html") {
     console.log({ e });
   }
 }
+
+// footer
+const footer = document.querySelector(".footer");
+footer.innerHTML = `
+<p>Open Source Project © <span>${new Date().getFullYear()}</span></p>
+          <p>Developed by <a href="https://github.com/dev-AshishRanjan"><span>Kumar Ashish Ranjan</span></a> and <a href="/contributors.html"><span>Open Source Community</span></a></p>
+`;
