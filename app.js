@@ -155,7 +155,7 @@ function generateCard(ele) {
   `;
   contributors.appendChild(card);
 }
-if (window.location.pathname === "/contributors.html") {
+if (window.location.pathname === "/contributors.html"|| window.location.pathname === "/contributors") {
   const SearchResultMetaData = document.querySelector(".SearchResultMetaData");
   try {
     fetch(
