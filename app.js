@@ -210,7 +210,9 @@ if (window.location.pathname === "/contributors.html") {
 
 // footer
 const footer = document.querySelector(".footer");
-footer.innerHTML = `
+footer !== undefined
+  ? (footer.innerHTML = `
 <p>Open Source Project © <span>${new Date().getFullYear()}</span></p>
           <p>Developed by <a href="https://github.com/dev-AshishRanjan"><span>Kumar Ashish Ranjan</span></a> and <a href="/contributors.html"><span>Open Source Community</span></a></p>
-`;
+`)
+  : null;
