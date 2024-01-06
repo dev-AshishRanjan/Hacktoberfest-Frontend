@@ -97,6 +97,10 @@ main {
   font-family: "Roboto Mono";
 }
 
+.lordIcon{
+  filter: drop-shadow(4px 4px 10px rgb(83, 83, 83));
+}
+
 .projects,
 .contributors {
   width: 100vw;

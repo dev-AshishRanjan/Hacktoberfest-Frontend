@@ -36,7 +36,15 @@ const projectBody = document.querySelector(".projects");
 fetch("./contribution/ProjectList.json")
   .then((response) => {
     if (!response.ok) {
-      throw new Error(`HTTP error! Status: ${response.status}`);
+      return ProjectList=[{
+        "Name": `Status: ${response.status}`,
+        "Author": "HTTP",
+        "tags": [`${response.status}`],
+        "Github": "",
+        "FilePath": "#",
+        "Description": "Use console to know this error better"
+      }];
+      // throw new Error(`HTTP error! Status: ${response.status}`);
     }
     return response.json();
   })
@@ -84,32 +92,36 @@ fetch("./contribution/ProjectList.json")
   })
   .catch((error) => console.error("Error loading JSON file:", error));
 
+
+
 // theme selection
 const html = document.documentElement;
-const PIBtheme = localStorage.getItem("FDtheme");
-if (PIBtheme === null) {
-  localStorage.setItem("FDtheme", "dark");
-  PIBtheme = "dark";
-}
+const PIBtheme = localStorage.getItem("FDtheme")||"dark";
+console.log(localStorage.getItem("FDtheme"));
 handleChange(PIBtheme);
 console.log({ PIBtheme });
 
 function handleChange(val) {
   const sun = document.querySelector("#sun");
   const moon = document.querySelector("#moon");
+  const lordIcon=document.querySelector(".lordIcon");
   if (val === "light") {
     html.classList.add("light");
     html.classList.remove("dark");
     sun.style.display = "none";
     moon.style.display = "block";
+    lordIcon.setAttribute("colors","primary:#000,secondary:#301e67");
   } else {
     html.classList.add("dark");
     html.classList.remove("light");
     sun.style.display = "block";
     moon.style.display = "none";
+    lordIcon.setAttribute("colors","primary:#d2b863,secondary:#5b8fb9");
   }
   localStorage.setItem("FDtheme", val);
 }
+
+
 
 // code for contributors
 const contributors = document.querySelector(".contributors");
