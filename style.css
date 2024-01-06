@@ -230,7 +230,7 @@ main {
 
 .theme-icon {
   color: var(--primary-3);
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   cursor: pointer;
 }
 
@@ -347,7 +347,7 @@ main {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  z-index: 50;
+  z-index: 8;
   gap: 1rem;
   top: 0;
   left: 0;
@@ -367,6 +367,9 @@ main {
 }
 .searcheSection input::placeholder{
   color: var(--primary-3);
+}
+.searcheSection input:focus{
+  border: 1px solid var(--text-head);
 }
 
 /* medias */
