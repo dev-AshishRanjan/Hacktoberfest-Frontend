@@ -109,7 +109,7 @@ main {
   justify-content: center;
   gap: 1.5rem 1rem;
   position: relative;
-  padding-top: 15rem;
+  padding-top: 10rem;
   background: radial-gradient(circle at left, var(--primary-1) 20%, transparent 45%, transparent) 0/100vw 250vh,
     radial-gradient(circle at right, var(--primary-1) 2%, transparent 15%, transparent) 0/100vw 750vh;
 }
@@ -336,6 +336,37 @@ main {
   opacity: 0.8;
   background: var(--text-head) !important;
   color: var(--primary-1) !important;
+}
+
+/* search bar */
+.searcheSection{
+  /* background: red; */
+  width: 100%;
+  height: 7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  z-index: 50;
+  gap: 1rem;
+  top: 0;
+  left: 0;
+}
+.searcheSection input{
+  background: transparent;
+  outline: none;
+  border: 1px dashed var(--text-head);
+  padding: 0.5rem 1rem;
+  border-radius: 0.3rem;
+  font-size: 1.2rem;
+  color: var(--text-head);
+}
+.searcheSection span{
+  font-size: 1.3rem;
+  color: var(--text-head);
+}
+.searcheSection input::placeholder{
+  color: var(--primary-3);
 }
 
 /* medias */
