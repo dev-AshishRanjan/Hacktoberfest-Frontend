@@ -520,12 +520,12 @@
     "Description": "Simple and responsive note taking web application."
   },
   {
-  "Name": "resume Project",
-  "Author": "surya",
-  "tags": ["html", "css"],
-  "Github": "https://github.com/suryakantdubalgundeoutlook",
-  "FilePath": "../projects/resume-Project/resume.html",
-  "Description": "Resume Sample"
+    "Name": "resume Project",
+    "Author": "surya",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/suryakantdubalgundeoutlook",
+    "FilePath": "../projects/resume-Project/resume.html",
+    "Description": "Resume Sample"
   },
   {
     "Name": "Rick and Morty Encyclopedia",
@@ -614,5 +614,13 @@
     "Github": "https://github.com/purnasth",
     "FilePath": "../projects/Marvel-Music-Player/index.html",
     "Description": "A functional music player that lets the user to play the songs, try shuffle mode, repeat the song."
+  },
+  {
+    "Name": "Password Generator Chrome Extention",
+    "Author": "Manthan Kasle",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/manthanmk66",
+    "FilePath": "../projects/Password Generator Chrome Extention/index.html",
+    "Description": "Simple Password generator tool and also made it for the Chrome Extention that allows users to generate strong and secure passwords based on their preferences."
   }
 ]

@@ -1,0 +1,17 @@
+{
+    "name": "Password Generator",
+    "description": "Random password generator Chrome Extention",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions":[
+        "activeTab",
+        "scripting"
+    ],
+    "action":{
+        "default_popup": "index.html"
+    },
+    "icons":{
+        "16": "assets/lock16.png",
+        "128": "assets/lock.png"
+    }
+}
