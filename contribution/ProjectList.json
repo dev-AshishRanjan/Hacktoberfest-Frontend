@@ -622,5 +622,13 @@
     "Github": "https://github.com/manthanmk66",
     "FilePath": "../projects/Password Generator Chrome Extention/index.html",
     "Description": "Simple Password generator tool and also made it for the Chrome Extention that allows users to generate strong and secure passwords based on their preferences."
+  },
+  {
+    "Name": "Simple Cake Ordering Website",
+    "Author": "Ashen Savinda",
+    "tags": ["html", "css"],
+    "Github": "https://github.com/ashensavi",
+    "FilePath": "../projects/Cake Ordering Website/index.html", 
+    "Description": "Simple website using html and css for our cake business."
   }
 ]

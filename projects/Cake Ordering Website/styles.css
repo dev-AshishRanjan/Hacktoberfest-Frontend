@@ -1,0 +1,53 @@
+.header-table {
+    width: 100%;
+    height: 200px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    border-radius: 20px;
+
+    /* Center content in table cells */
+}
+
+td {
+    vertical-align: middle;
+    text-align: center;
+
+}
+
+a:hover {
+    color: red;
+    font-size: 23px;
+
+
+}
+
+.nav-bar {
+
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+
+
+
+}
+
+.nav-bar-content {
+
+
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+
+}
+
+.content-table {
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.marquee {
+    background: rgb(34, 193, 195);
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+}
