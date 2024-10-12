@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Form</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    
+    .custom-shadow {
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.30);
+    }
+    
+    @keyframes slideIn {
+      0% {
+        transform: translateY(100px);
+        opacity: 0;
+      }
+      100% {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+    @keyframes fadeIn {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+    @keyframes scaleIn {
+      0% {
+        transform: scale(0.8);
+        opacity: 0;
+      }
+      100% {
+        transform: scale(1);
+        opacity: 1;
+      }
+    }
+    
+    .animate-slide {
+      animation: slideIn 0.8s ease-in-out forwards;
+    }
+    .animate-fade {
+      animation: fadeIn 1.2s ease-in-out forwards;
+    }
+    .animate-scale {
+      animation: scaleIn 1.2s ease-in-out forwards;
+    }
+    
+    .btn-hover:hover {
+      transform: scale(1.05);
+    }
+   
+    .image-container {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+    .image-container img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  </style>
+</head>
+<body class="min-h-screen bg-gradient-to-r from-blue-200 via-white-500 to-green-200 flex justify-center items-center py-10">
+
+  <div class="bg-white p-10 rounded-2xl custom-shadow w-full max-w-4xl grid grid-cols-1 lg:grid-cols-2 gap-8 animate-fade">
+
+    
+    <div class="p-8 animate-slide">
+      <h2 class="text-4xl font-extrabold text-center text-blue-600 mb-6">Login</h2>
+
+      
+      <form id="loginForm" class="space-y-6">
+        <div class="space-y-4">
+          <div>
+            <label class="text-lg font-semibold">Email Address</label>
+            <input type="email" id="email" class="p-3 border border-gray-300 rounded-lg w-full focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all duration-300" placeholder="Enter your email" />
+          </div>
+          <div>
+            <label class="text-lg font-semibold">Password</label>
+            <input type="password" id="password" class="p-3 border border-gray-300 rounded-lg w-full focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all duration-300" placeholder="Enter your password" />
+          </div>
+        </div>
+
+       
+        <button type="submit" class="w-full bg-blue-600 text-white font-semibold py-3 rounded-lg hover:bg-blue-700 transition-all duration-300 btn-hover">
+          Login
+        </button>
+      </form>
+
+      
+      <div class="text-center text-gray-500 my-4">OR</div>
+
+     
+      <div class="space-y-4">
+        <button class="w-full bg-red-400 text-white font-semibold py-3 rounded-lg hover:bg-red-600 transition-all duration-300 flex items-center justify-center btn-hover">
+          <img src="https://img.icons8.com/color/24/000000/google-logo.png" alt="Google" class="mr-2"/> Login with Google
+        </button>
+        <button class="w-full bg-blue-400 text-white font-semibold py-3 rounded-lg hover:bg-blue-700 transition-all duration-300 flex items-center justify-center btn-hover">
+          <img src="https://img.icons8.com/color/24/000000/facebook-new.png" alt="Facebook" class="mr-2"/> Login with Facebook
+        </button>
+      </div>
+    </div>
+
+    
+    <div class="image-container animate-scale">
+      <img src="login.jpg" alt="Login Illustration" />
+    </div>
+
+  </div>
+
+  <script>
+    document.getElementById("loginForm").addEventListener("submit", function(event) {
+      event.preventDefault();
+      
+      const formData = {
+        email: document.getElementById("email").value,
+        password: document.getElementById("password").value
+      };
+      
+      console.log("Login Data:", formData);
+    });
+  </script>
+
+</body>
+</html>
+
