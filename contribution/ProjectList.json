@@ -622,5 +622,14 @@
     "Github": "https://github.com/manthanmk66",
     "FilePath": "../projects/Password Generator Chrome Extention/index.html",
     "Description": "Simple Password generator tool and also made it for the Chrome Extention that allows users to generate strong and secure passwords based on their preferences."
+  },
+  {
+    "Name": "Movie API",
+    "Author": "Pudi Sravan",
+    "tags": ["html", "css", "js"],
+    "Github": "https://github.com/Pudi-Sravan",
+    "FilePath": "../projects/MOVIE-API/index.html",
+    "Description": "A Movie Website made using the details obtained from TMDB API Key with multiple categories available"
   }
+
 ]
